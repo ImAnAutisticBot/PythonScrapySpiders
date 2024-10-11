@@ -1,0 +1,174 @@
+Course_Number,Course_Title,Credit_Hours
+CSE 1110,Introduction to Computing Technology,3.00
+CSE 1111,Introduction to Computer-Assisted Problem Solving,3.00
+CSE 1112,Introduction to Computer-Assisted Problem Solving for Construction Systems Management,3.00
+CSE 1113,Spreadsheet Programming for Business,1.00
+CSE 1114,Introduction to Databases Using MS Access,1.50
+CSE 1194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 1211,"Computational Thinking in Context: Images, Animation, and Games",3.00
+CSE 1212,Computational Thinking in Context: Mobile Applications,3.00
+CSE 1213,Computational Thinking in Context: Game Development,4.00
+CSE 1221,Introduction to Computer Programming in MATLAB for Engineers and Scientists,2.00
+CSE 1222,Introduction to Computer Programming in C++ for Engineers and Scientists,3.00
+CSE 1223,Introduction to Computer Programming in Java,3.00
+CSE 1224,Introduction to Computer Programming in Python,3.00
+CSE 2021,Introduction to Modeling and Simulation,3.00
+CSE 2111,Modeling and Problem Solving with Spreadsheets and Databases,3.00
+CSE 2112,Modeling and Problem Solving with Spreadsheets and Databases for Engineers,3.00
+CSE 2122,Data Structures Using C++,3.00
+CSE 2123,Data Structures Using Java,3.00
+CSE 2133,Business Programming with File Processing,3.00
+CSE 2193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2193H,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2194H,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2221,Software I: Software Components,4.00
+CSE 2231,Software II: Software Development and Design,4.00
+CSE 2321,Foundations I: Discrete Structures,3.00
+CSE 2331,Foundations II: Data Structures and Algorithms,3.00
+CSE 2371,Quantum Circuits and Algorithms,3.00
+CSE 2421,Systems I: Introduction to Low-Level Programming and Computer Organization,4.00
+CSE 2431,Systems II: Introduction to Operating Systems,3.00
+CSE 2451,Advanced C Programming,2.00
+CSE 2501,"Social, Ethical, and Professional Issues in Computing",1.00
+CSE 3231,Software Engineering Techniques,3.00
+CSE 3232,Software Requirements Analysis,3.00
+CSE 3241,Introduction to Database Systems,3.00
+CSE 3244,Data Management in the Cloud,3.00
+CSE 3321,Automata and Formal Languages,3.00
+CSE 3341,Principles of Programming Languages,3.00
+CSE 3421,Introduction to Computer Architecture,3.00
+CSE 3430,Overview of Computer Systems For Non-Majors,4.00
+CSE 3461,Computer Networking and Internet Technologies,3.00
+CSE 3521,Survey of Artificial Intelligence I: Basic Techniques,3.00
+CSE 3541,Computer Game and Animation Techniques,3.00
+CSE 3901,"Project: Design, Development, and Documentation of Web Applications",4.00
+CSE 3902,"Project: Design, Development, and Documentation of Interactive Systems",4.00
+CSE 3903,"Project: Design, Development, and Documentation of System Software",4.00
+CSE 4191,Professional Practice in Industry,0.00
+CSE 4193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4193H,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4194H,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4251,The UNIX Programming Environment,1.00
+CSE 4252,Programming in C++,1.00
+CSE 4253,Programming in C#,1.00
+CSE 4254,Programming in Lisp,1.00
+CSE 4256,Programming in Python,1.00
+CSE 4471,Information Security,3.00
+CSE 4998,Undergraduate Research in Computer Science and Engineering,1.00 - 10.00
+CSE 4998H,Undergraduate Research in Computer Science and Engineering,1.00 - 10.00
+CSE 4999,Computer Science and Engineering Research for Thesis,1.00 - 10.00
+CSE 4999H,Computer Science and Engineering Research for Thesis,1.00 - 10.00
+CSE 5022,Software I: Software Components,3.00
+CSE 5023,Software II: Software Development and Design,3.00
+CSE 5032,Foundations I: Discrete Structures,2.00
+CSE 5042,Systems I: Introduction to Low-Level Programming and Computer Organization,3.00
+CSE 5043,Overview of Computer Systems For Non-Majors,3.00
+CSE 5052,Survey of Artificial Intelligence for Non-Majors,3.00
+CSE 5194.01,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 5194.02,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 5231,Software Engineering Techniques,2.00
+CSE 5232,Software Requirements Analysis,2.00
+CSE 5234,Distributed Enterprise Computing,3.00
+CSE 5235,Applied Enterprise Architectures and Services,3.00
+CSE 5236,Mobile Application Development,3.00
+CSE 5239,Intermediate Studies in Software Engineering,2.00 - 3.00
+CSE 5241,Introduction to Database Systems,2.00
+CSE 5242,Advanced Database Management Systems,3.00
+CSE 5243,Introduction to Data Mining,3.00
+CSE 5245,Introduction to Network Science,3.00
+CSE 5249,Intermediate Studies in Databases,2.00 - 3.00
+CSE 5321,Automata and Formal Languages,2.00
+CSE 5329,Intermediate Studies in Computation Theory,2.00 - 3.00
+CSE 5331,Foundations II: Data Structures and Algorithms,2.00
+CSE 5339,Intermediate Studies in Algorithms,2.00 - 3.00
+CSE 5341,Principles of Programming Languages,2.00
+CSE 5343,Compiler Design and Implementation,3.00
+CSE 5349,Intermediate Studies in Programming Languages,2.00 - 3.00
+CSE 5351,Introduction to Cryptography,3.00
+CSE 5359,Intermediate Studies in Cryptography,2.00 - 3.00
+CSE 5361,Numerical Methods,3.00
+CSE 5421,Introduction to Computer Architecture,2.00
+CSE 5429,Intermediate Studies in Computer Architecture,2.00 - 3.00
+CSE 5431,Systems II: Introduction to Operating Systems,2.00
+CSE 5432,Mobile Handset Systems and Networking,3.00
+CSE 5433,Operating Systems Laboratory,3.00
+CSE 5434,Comparative Operating Systems,3.00
+CSE 5439,Intermediate Studies in Operating Systems,2.00 - 3.00
+CSE 5441,Introduction to Parallel Computing,3.00
+CSE 5442,High-Performance Deep/Machine Learning,3.00
+CSE 5449,Intermediate Studies in Parallel Computing,2.00 - 3.00
+CSE 5461,Computer Networking and Internet Technologies,2.00
+CSE 5462,Network Programming,3.00
+CSE 5463,Introduction to Wireless Networking,3.00
+CSE 5469,Intermediate Studies in Computer Networking,2.00 - 3.00
+CSE 5471,Introduction to Cybersecurity,3.00
+CSE 5472,Information Security Projects,3.00
+CSE 5473,Network Security,3.00
+CSE 5474,Software Security,3.00
+CSE 5477.01,Offensive Security,3.00
+CSE 5477.02,Reverse Engineering and Malware Analysis,3.00
+CSE 5479,Intermediate Studies in Computer Security,2.00 - 3.00
+CSE 5501,"Social, Ethical, and Professional Issues in Computing",1.00
+CSE 5521,Survey of Artificial Intelligence I: Basic Techniques,2.00
+CSE 5522,Survey of Artificial Intelligence II: Advanced Techniques,3.00
+CSE 5523,Machine Learning and Statistical Pattern Recognition,3.00
+CSE 5524,Computer Vision for Human-Computer Interaction,3.00
+CSE 5525,Foundations of Speech and Language Processing,3.00
+CSE 5526,Introduction to Neural Networks,3.00
+CSE 5531,Introduction to Cognitive Science,3.00
+CSE 5539,Intermediate Studies in Artificial Intelligence,2.00 - 3.00
+CSE 5541,Computer Game and Animation Techniques,2.00
+CSE 5542,Real-Time Rendering,3.00
+CSE 5543,Geometric Modeling,3.00
+CSE 5544,Introduction to Data Visualization,3.00
+CSE 5545,Advanced Computer Graphics,3.00
+CSE 5546,Virtual Reality,3.00
+CSE 5559,Intermediate Studies in Computer Graphics,2.00 - 3.00
+CSE 5821,Legal Topics for Computer Engineers,3.00
+CSE 5889,Intermediate Studies in Multidisciplinary Computing,2.00 - 3.00
+CSE 5891,Proseminar in Cognitive Science,2.00
+CSE 5911,Capstone Design: Software Applications,4.00
+CSE 5912,Capstone Design: Game Design and Development,4.00
+CSE 5913,Capstone Design: Computer Animation,4.00
+CSE 5914,Capstone Design: Knowledge-Based Systems,4.00
+CSE 5915,Capstone Design: Information Systems,4.00
+CSE 5916,Capstone Design: Research-Focused Projects,4.00
+CSE 6011,Computational Thinking in Context,3.00
+CSE 6012,Introduction to Computer Programming in Java,3.00
+CSE 6013,Data Structures Using Java,
+CSE 6193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 6194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 6239,Advanced Studies in Software Engineering,1.00 - 3.00
+CSE 6249,Advanced Studies in Databases,1.00 - 3.00
+CSE 6321,Computability and Complexity,3.00
+CSE 6329,Advanced Studies in Computation Theory,1.00 - 3.00
+CSE 6331,Algorithms,3.00
+CSE 6332,Advanced Algorithms,3.00
+CSE 6333,Distributed Algorithms,3.00
+CSE 6339,Advanced Studies in Algorithms,1.00 - 3.00
+CSE 6341,Foundations of Programming Languages,3.00
+CSE 6349,Advanced Studies in Programming Languages,1.00 - 3.00
+CSE 6359,Advanced Studies in Cryptography,1.00 - 3.00
+CSE 6421,Computer Architecture,3.00
+CSE 6422,Advanced Computer Architecture,3.00
+CSE 6429,Advanced Studies in Computer Architecture,1.00 - 3.00
+CSE 6431,Advanced Operating Systems,3.00
+CSE 6439,Advanced Studies in Operating Systems,1.00 - 3.00
+CSE 6441,Parallel Computing,3.00
+CSE 6449,Advanced Studies in Parallel Computing,1.00 - 3.00
+CSE 6461,Computer Communication Networks,3.00
+CSE 6469,Advanced Studies in Computer Networking,1.00 - 3.00
+CSE 6479,Advanced Studies in Computer Security,1.00 - 3.00
+CSE 6520,Foundations of Applied Artificial Intelligence for Non-Majors,3.00
+CSE 6521,Artificial Intelligence,3.00
+CSE 6539,Advanced Studies in Artificial Intelligence,1.00 - 3.00
+CSE 6559,Advanced Studies in Computer Graphics,1.00 - 3.00
+CSE 6891,Departmental Research Seminar,1.00
+CSE 6998,MS Research in Computer Science and Engineering,0.50 - 10.00
+CSE 6999,MS Thesis Research in Computer Science and Engineering,1.00 - 10.00
+CSE 8193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 8194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 8998,PhD Research in Computer Science and Engineering,0.50 - 10.00
+CSE 8999,PhD Dissertation Research in Computer Science and Engineering,1.00 - 10.00
