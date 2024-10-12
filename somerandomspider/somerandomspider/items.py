@@ -18,3 +18,8 @@ class FacultyItem(scrapy.Item):
     Phone = scrapy.Field()
     Email = scrapy.Field()
     Address = scrapy.Field()
+
+class LeedcodeItem(scrapy.Item):
+    Title = scrapy.Field()
+    Acceptance = scrapy.Field(
+    Difficulty = scrapy.Field()
