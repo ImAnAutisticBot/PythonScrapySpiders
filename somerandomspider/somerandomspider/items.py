@@ -10,3 +10,11 @@ class CourseItem(scrapy.Item):
     Course_Number = scrapy.Field()
     Course_Title = scrapy.Field()
     Credit_Hours = scrapy.Field()
+
+class FacultyItem(scrapy.Item):
+    Name = scrapy.Field()
+    Appointment = scrapy.Field()
+    Category = scrapy.Field()
+    Phone = scrapy.Field()
+    Email = scrapy.Field()
+    Address = scrapy.Field()
