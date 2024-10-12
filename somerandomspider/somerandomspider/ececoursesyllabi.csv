@@ -1,0 +1,287 @@
+Course_Number,Course_Title,Credit_Hours
+ECE 2020,Introduction to Analog Systems and Circuits,3.00
+ECE 2021,Introduction to Analog Systems and Circuits for Transfer Students Lecture,2.50
+ECE 2027,Introduction to Analog Systems and Circuits Lab for Transfer Students,0.50
+ECE 2050,Introduction to Discrete Time Signals & Systems,3.00
+ECE 2051,Introduction to Discrete Time Signals & Systems Lecture,2.50
+ECE 2057,Introduction to Discrete Time Signals & Systems Laboratory,0.50
+ECE 2060,Introduction to Digital Logic,3.00
+ECE 2061,Introduction to Digital Logic for Transfer Students Lecture,2.50
+ECE 2067,Introduction to Digital Logic Lab for Transfer Students,0.50
+ECE 2193,Individual Studies in Electrical and Computer Engineering,0.00 - 10.00
+ECE 2194.01,Group Studies: Sustainable Energy and Society,0.00 - 6.00
+ECE 2194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2300,Electrical Circuits and Electronic Devices,3.00
+ECE 2301,Electrical Circuits and Electronic Devices Lecture,2.50
+ECE 2307,Electrical Circuits and Electronic Devices Laboratory,0.50
+ECE 2360,Electronics for CSE majors,3.00
+ECE 2560,Introduction to Microcontroller-Based Systems,2.00
+ECE 2998.01,Undergraduate Research,0.50 - 3.00
+ECE 2998.02,Undergraduate Research,0.50 - 3.00
+ECE 3010,Introduction to Radio Frequency and Optical Engineering,3.00
+ECE 3020,Introduction to Electronics,3.00
+ECE 3027,Electronics Laboratory,1.00
+ECE 3030,Semiconductor Electronic Devices,3.00
+ECE 3040,Sustainable Energy and Power Systems I,3.00
+ECE 3047,Sustainable Energy and Energy Conversion Lab,1.00
+ECE 3050,Signals and Systems,3.00
+ECE 3090,Technical Writing and Presentations,1.00
+ECE 3551,Introduction to Feedback Control Systems,3.00
+ECE 3561,Advanced Digital Design,3.00
+ECE 3567,Microcontroller Lab,1.00
+ECE 3900,Capstone Design I,1.00
+ECE 3905,Capstone Design I,3.00
+ECE 3906,Capstone Design I,4.00
+ECE 4021,Analog Integrated Circuits I,3.00
+ECE 4193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 4194.01,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4567,Design of Mobile Internet-of-Things,4.00
+ECE 4900,Capstone Design II,3.00
+ECE 4900H,Design II with Honors Thesis Project,3.00
+ECE 4905,Capstone Design II,3.00
+ECE 4905H,Capstone Design II with Honors Thesis,3.00
+ECE 4998.01,Undergraduate Research,0.50 - 3.00
+ECE 4998.01H,Undergraduate Honors Research,0.50 - 3.00
+ECE 4998.02,Undergraduate Research,0.50 - 3.00
+ECE 4999.01,Undergraduate Thesis Research,0.50 - 3.00
+ECE 4999.01H,Undergraduate Honors Thesis Research,0.50 - 3.00
+ECE 5000,Introduction to Analog and Digital Communications,3.00
+ECE 5007,Communications Laboratory,0.50
+ECE 5010,Wireless Propagation and Remote Sensing,3.00
+ECE 5011,Antennas,3.00
+ECE 5012,Integrated Optics,3.00
+ECE 5013,Introduction to Radar Systems,3.00
+ECE 5017,Microwave Engineering,4.00
+ECE 5020,Mixed Signal VLSI,3.00
+ECE 5021,Analog Integrated Circuits II,3.00
+ECE 5022,Introduction to RF Systems,3.00
+ECE 5023,Fundamentals of Integrated Data Converters,3.00
+ECE 5025,"Power Electronics: Devices, Circuits, and Applications",3.00
+ECE 5027,Microwave Electronics,4.00
+ECE 5031,Semiconductor Process Technology,3.00
+ECE 5033,Surfaces and Interfaces of Electronic Materials,3.00
+ECE 5037,Solid State Electronics and Photonics Laboratory,4.00
+ECE 5041,Electric Machines,3.00
+ECE 5042,Power Systems,3.00
+ECE 5043,Power Systems - Analysis and Operation,3.00
+ECE 5047,High Voltage Engineering and Laboratory,3.00
+ECE 5050,Humanitarian Engineering,3.00
+ECE 5078,Empowering the Entrepreneurial Electrical and Computer Engineer,3.00
+ECE 5101,Introduction to Wireless Networking,3.00
+ECE 5120,Introduction to Integrated Circuits Test and Measurement,3.00
+ECE 5127,Power Electronics Lab,1.00
+ECE 5131,Lasers,3.00
+ECE 5132,Photonics,3.00
+ECE 5194.01,Group Studies: An Introduction to Radar Systems,3.00
+ECE 5194.02,Group Studies: Contol and Optimization for the Smart Grid,0.00 - 6.00
+ECE 5194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5200,Introduction to Digital Signal Processing,3.00
+ECE 5206,Medical Imaging and Processing,3.00
+ECE 5207,Real-Time Digital Signal Processing Laboratory,0.50
+ECE 5227,Fundamentals of Power Management Integrated Circuits for VLSI Systems,4.00
+ECE 5237,Photovoltaics Laboratory,4.00
+ECE 5244,Si and Wide Band Gap Power Devices,3.00
+ECE 5307,Introduction to Machine Learning for ECE,4.00
+ECE 5362,Computer Architecture and Design,3.00
+ECE 5400,"Instrumentation, Signals, and Control in Transportation Applications",3.00
+ECE 5460,Image Processing,3.00
+ECE 5462,HDL Design and Verification,3.00
+ECE 5463,Introduction to Real Time Robotics Systems,3.00
+ECE 5465,Advanced Microcomputers,3.00
+ECE 5466,Embedded Computer Systems,3.00
+ECE 5500,Nonlinear and Dynamic Programming for ECE,3.00
+ECE 5510,Introduction to Computational Electromagnetics,3.00
+ECE 5530,Fundamentals of Semiconductors for Microelectronics and Photonics,3.00
+ECE 5537,Semiconductor Device Characterization and Modelling Lab,4.00
+ECE 5550,Feedback Control Engineering for Social Justice,3.00
+ECE 5551,State-Space Control Systems,3.00
+ECE 5553,Autonomy in Vehicles,3.00
+ECE 5554,Powertrain Control Systems,3.00
+ECE 5555,Securing Autonomous Systems,3.00
+ECE 5561,Introduction to Cybersecurity,3.00
+ECE 5567.01,Offensive Security,3.00
+ECE 5567.02,Reverse Engineering and Software Security,3.00
+ECE 5832,Photovoltaics and Energy Conversion,3.00
+ECE 5833,Organic and Printed Flexible Electronics,3.00
+ECE 6001,Probability and Random Variables,3.00
+ECE 6010,Electromagnetic Field Theory I,3.00
+ECE 6011,Bioelectromagnetics,3.00
+ECE 6070,Project Management in Electrical and Computer Engineering,3.00
+ECE 6101,Computer Communication Networks,3.00
+ECE 6102,Wireless Networks,3.00
+ECE 6193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 6194.01,Group Studies: Multi-Agent Control in Electric Systems,0.00 - 6.00
+ECE 6194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6202,Stochastic Signal Processing,3.00
+ECE 6244,Design and Process Integration for Wide Band Gap Power Devices,3.00
+ECE 6400,Introduction to Photogrammetry,3.00
+ECE 6500,Convex and Stochastic Network Optimization,3.00
+ECE 6511,Nonlinear Optics,3.00
+ECE 6531,Fundamentals of Semiconductor Devices,3.00
+ECE 6532,Nanofabrication and Nanoscale Devices,3.00
+ECE 6533,Infrared Detectors and Systems,3.00
+ECE 6535,Semiconductor Optoelectronic Devices,3.00
+ECE 6541,Advanced Topics in Sustainable Energy and Power Systems,3.00
+ECE 6750,Linear Systems Theory,3.00
+ECE 6754,Nonlinear Systems Theory,3.00
+ECE 6999,Research for Thesis,0.50 - 15.00
+ECE 7001,"Stochastic Processes, Detection, and Estimation",3.00
+ECE 7003,Wireless Communication Theory,3.00
+ECE 7005,Information Theory,3.00
+ECE 7010,Electromagnetic Field Theory II,3.00
+ECE 7011,Computational Electromagnetics,3.00
+ECE 7020,Advanced Data Converters and Phase-Locked Loops,3.00
+ECE 7022,Advanced RF Integrated Circuits,3.00
+ECE 7023,High Speed Interface Circuits and Systems Design,3.00
+ECE 7027,Advanced Topics in Analog VLSI Design,4.00
+ECE 7032,Physical Electronics of Advanced Semiconductor Devices,3.00
+ECE 7080,Ethics and Professionalism,1.00
+ECE 7103,Discrete Stochastic Processes,3.00
+ECE 7202,Reinforcement Learning,3.00
+ECE 7402,Advanced Machine Learning for Remote Sensing Image Interpretation,3.00
+ECE 7531,Epitaxial Heterostructures,2.00
+ECE 7811,Electromagnetic Interference and Compatibility,3.00
+ECE 7813,Advanced Antenna Theory and Design,3.00
+ECE 7814,Microwave Remote Sensing,3.00
+ECE 7821,Mixed Signal Verification and CAD Tools,3.00
+ECE 7822,Advanced Nonlinear Microwave Circuit Engineering,3.00
+ECE 7831,Microwave Semiconductor Devices,3.00
+ECE 7841,Advanced Topics in Power Electronics,3.00
+ECE 7842,Advanced Topics in Electric Machines,3.00
+ECE 7843,Advanced Topics in Power Systems,3.00
+ECE 7854,Nonlinear and Adaptive Control,3.00
+ECE 7855,Large Scale and Cyber-Physical Systems,3.00
+ECE 7858,Intelligent Control,3.00
+ECE 7859,Sliding Mode Control in Electromechanical Systems,3.00
+ECE 7861,Scientific Computing on Emerging Architectures,3.00
+ECE 7866,Computer Vision,3.00
+ECE 8001,Advanced Topics in Communications,3.00
+ECE 8019,Advanced Topics in Electromagnetics and Optics,3.00
+ECE 8101,Advanced Topics in Networking,3.00
+ECE 8193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 8194.01,Group Studies: Hybrid Systems Theory and Applications,0.00 - 6.00
+ECE 8194.02,Group Studies: Power System Control,0.00 - 6.00
+ECE 8194.03,Group Studies: Advanced Embedded System Design,0.00 - 6.00
+ECE 8194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8201,Advanced Topics in Signal Processing,3.00
+ECE 8250,Continuous Time Optimal Control,3.00
+ECE 8850,Robust Multi-Variable Control with Applications,3.00
+ECE 8851,Advanced Topics in Control Theory,3.00
+ECE 8861,Special Topics on Computational Modeling,3.00
+ECE 8862,Special Topics in Advanced Computer Design Methodologies,3.00
+ECE 8891,Seminar in Electrical and Computer Engineering,0.50 - 2.00
+ECE 8898,Open Graduate Seminar,0.50 - 3.00
+ECE 8999,Research for Dissertation,0.50 - 15.00

@@ -1,0 +1,97 @@
+Course_Number,Course_Title,Credit_Hours
+BIOMEDE 2000,Introduction to Biomedical Engineering,3.00
+BIOMEDE 2001,Professional Development,1.00
+BIOMEDE 2193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 2194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 2200,Quantitative Principles of Cellular and Molecular Systems,3.00
+BIOMEDE 2700,Numerical Simulations in BME,2.00
+BIOMEDE 2800,Anatomy for Engineers,3.00
+BIOMEDE 3701,Biomedical Engineering Domain Lab,2.00
+BIOMEDE 3702,Measurements and Instrumentation Lab,3.00
+BIOMEDE 3703,Quantitative Physiology,3.00
+BIOMEDE 4001,Clinical Preceptorship in BME,3.00
+BIOMEDE 4110,Bioimaging,3.00
+BIOMEDE 4193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 4194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 4210,Biotransport,3.00
+BIOMEDE 4310,Biomaterials,3.00
+BIOMEDE 4410,Biomechanics,3.00
+BIOMEDE 4510,"Cell, Molecular, and Tissue Engineering",3.00
+BIOMEDE 4610,Biomedical Micro/Nanotechnology,3.00
+BIOMEDE 4711,Bioimaging Lab,0.50
+BIOMEDE 4712,Biotransport Lab,0.50
+BIOMEDE 4713,Biomaterials Lab,0.50
+BIOMEDE 4714,Biomechanics Lab,0.50
+BIOMEDE 4715,"Molecular, Cell, and Tissue Engineering Lab",0.50
+BIOMEDE 4716,BME Micro/Nanotechnology Lab,0.50
+BIOMEDE 4901,Biomedical Engineering Capstone Design I,3.00
+BIOMEDE 4901.01,General BME Capstone I,3.00
+BIOMEDE 4901.02,Industry BME Capstone I,3.00
+BIOMEDE 4901.03,Medical Product Development Capstone I,3.00
+BIOMEDE 4902,Biomedical Engineering Capstone Design II,3.00
+BIOMEDE 4902.01,General BME Capstone II,3.00
+BIOMEDE 4902.02,Industry BME Capstone II,3.00
+BIOMEDE 4902.03,Medical Product Development Capstone II,3.00
+BIOMEDE 4998.01,Undergraduate Research in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 4998.02,Undergraduate Research in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 4999,Biomedical Engineering Undergraduate Thesis Research,1.00 - 6.00
+BIOMEDE 4999H,Biomedical Engineering Undergraduate Honors Thesis Research,1.00 - 6.00
+BIOMEDE 5001,Cardiovascular Bioengineering,3.00
+BIOMEDE 5110,Biomedical Microscopic Imaging,3.00
+BIOMEDE 5120,Biomedical Optics,3.00
+BIOMEDE 5160,Medical Imaging and Processing,3.00
+BIOMEDE 5170,Fundamentals of Medical Imaging,3.00
+BIOMEDE 5177,Biomedical Atomic Force Microscopy,3.00
+BIOMEDE 5186,Biomedical Ultrasound,3.00
+BIOMEDE 5193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 5194.01,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.02,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.03,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.04,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.05,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.06,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.07,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.08,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.09,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5210,Advanced Biological Transport,3.00
+BIOMEDE 5310,Advanced Biomaterials,3.00
+BIOMEDE 5340,Polymers in Bioengineering,3.00
+BIOMEDE 5353,Hard-Tissue Biomaterials,3.00
+BIOMEDE 5359,Extracellular Matrix in BME,3.00
+BIOMEDE 5420,Mechanobiology,3.00
+BIOMEDE 5421,Tissue Mechanics,3.00
+BIOMEDE 5430,Finite Element Applications in BME,3.00
+BIOMEDE 5470,Cell & Tissue Mechanics,3.00
+BIOMEDE 5510,Advanced Tissue Engineering,3.00
+BIOMEDE 5520,Cell Engineering,3.00
+BIOMEDE 5550,Engineering Principles in Cancer,3.00
+BIOMEDE 5560,Biomedical Engineering Applications in Cancer Biology,3.00
+BIOMEDE 5580,Excitable Cell Engineering,3.00
+BIOMEDE 5610,Advanced Biomedical Micro/Nanotechnologies,3.00
+BIOMEDE 5635,Cellular Nanotechnology,3.00
+BIOMEDE 5639,Medical Device Development and Regulation,3.00
+BIOMEDE 5661,Biomedical Nanotechnology I,3.00
+BIOMEDE 5663,Introduction to Microfluidics and Nanofluidics,3.00
+BIOMEDE 5667,BioMEMS Microfabrication,3.00
+BIOMEDE 5668,Biomedical Microtransducers,3.00
+BIOMEDE 5669,Principles and Design Theory for Advanced Medical Devices,3.00
+BIOMEDE 5710,Machine Learning in Biomedical Engineering,3.00
+BIOMEDE 5810,Biomedical Industry and Professionalism Seminar,1.00
+BIOMEDE 5901,Medical Product Development I,3.00
+BIOMEDE 5902,Medical Product Development II,3.00
+BIOMEDE 6000,Scientific Methods in Biomedical Engineering,1.00
+BIOMEDE 6113,Magnetic Resonance Spectroscopy and Imaging I,3.00
+BIOMEDE 6170,Microscopy in Biomechanics,3.00
+BIOMEDE 6350,Extracellular Matrix in Bioengineering,3.00
+BIOMEDE 6430,Mechanobiology of the Musculoskeletal System in Development and Disease,3.00
+BIOMEDE 6530,Engineering Cell Plasticity,3.00
+BIOMEDE 6983,Research Ethics,2.00
+BIOMEDE 6999,Biomedical Engineering Research for Thesis,1.00 - 16.00
+BIOMEDE 7114,Magnetic Resonance Spectroscopy and Imaging II,3.00
+BIOMEDE 8193,Individual Studies in Biomedical Engineering,1.00 - 16.00
+BIOMEDE 8194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 8810,Biomedical Engineering Seminars I,0.00
+BIOMEDE 8811,Biomedical Engineering Seminars II,1.00
+BIOMEDE 8812,Biomedical Engineering Seminars III,0.00
+BIOMEDE 8813,Biomedical Engineering Seminars IV,1.00
+BIOMEDE 8999,Biomedical Engineering Research for Dissertation,1.00 - 16.00

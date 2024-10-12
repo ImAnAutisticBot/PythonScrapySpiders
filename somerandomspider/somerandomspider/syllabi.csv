@@ -1,0 +1,1571 @@
+Course_Number,Course_Title,Credit_Hours
+AEROENG 2200,Introduction to Aerospace Engineering I,4.00
+AEROENG 2405,Thermodynamics,3.00
+AEROENG 3520,Flight Vehicle Dynamics,3.00
+AEROENG 3521,Fundamentals of Flight Vehicle Control,3.00
+AEROENG 3522,Fundamental Astronautics,3.00
+AEROENG 3542,Flight Vehicle Structures I,3.00
+AEROENG 3543,Flight Vehicle Structures II,3.00
+AEROENG 3560,Fundamentals of Aerodynamics,3.00
+AEROENG 3570,One Dimensional Gas Dynamics,3.00
+AEROENG 3580,Heat Transfer,3.00
+AEROENG 3581,Numerical Methods in Aerospace Engineering,3.00
+AEROENG 4193,Individual Studies in Aerospace Engineering,1.00 - 7.00
+AEROENG 4194,Group Studies in Aerospace Engineering,1.00 - 3.00
+AEROENG 4510,Experimental Projects I,2.00
+AEROENG 4511,Experimental Projects II,3.00
+AEROENG 4515,Design of Atmospheric Flight Vehicles I,3.00
+AEROENG 4516,Design of Atmospheric Flight Vehicles II,3.00
+AEROENG 4517,Design of Space Vehicles and Systems I,3.00
+AEROENG 4518,Design of Space Vehicles and Systems II,3.00
+AEROENG 4550,Principles of Flight Vehicle Propulsion,3.00
+AEROENG 4998,Aerospace Engineering Research,1.00 - 3.00
+AEROENG 4999,Aerospace Engineering Thesis Research,1.00 - 3.00
+AEROENG 4999H,Aerospace Engineering Honors Thesis Research,1.00 - 3.00
+AEROENG 5194,Group Studies in Aerospace Engineering,1.00 - 5.00
+AEROENG 5610,Helicopter Aerodynamics,3.00
+AEROENG 5612,Aircraft Performance and Flight Test Engineering,3.00
+AEROENG 5615,Introduction to Computational Aerodynamics,3.00
+AEROENG 5616,Advanced Flight Vehicle Design,3.00
+AEROENG 5620,Stability and Control of Flight Vehicles,3.00
+AEROENG 5621,"Guidance, Navigation, and Control of Aerospace Vehicles",3.00
+AEROENG 5626,Orbital Mechanics for Engineers,3.00
+AEROENG 5751,Advanced Air-Breathing Propulsion,3.00
+AEROENG 5752,Advanced Space Propulsion,3.00
+AEROENG 5775,Hypersonic Flow,3.00
+AEROENG 6193,Individual Studies in Aerospace Engineering,1.00 - 7.00
+AEROENG 6194,Group Studies in Aerospace Engineering,1.00 - 3.00
+AEROENG 6560,Advanced Aerodynamics,3.00
+AEROENG 6645,Introduction to Structural Dynamics and Aeroelasticity of Aerospace Vehicles,4.00
+AEROENG 6771,Viscous Fluid Flow: Laminar and Transitional,3.00
+AEROENG 6860,Experimental Fluid Mechanics,3.00
+AEROENG 7721,Advanced Flight Mechanics,3.00
+AEROENG 7774,Aeroacoustics,3.00
+AEROENG 7842,Advanced Structures for Flight Vehicles,3.00
+AEROENG 7844,Optimal Design of Aerospace Structures,3.00
+AEROENG 7862,Internal Flows in Turbomachinery,3.00
+AEROENG 7875,Introduction to Turbulence,3.00
+AEROENG 8193,Individual Studies in Aerospace Engineering,1.00 - 7.00
+AEROENG 8194,Group Studies Aerospace Engineering,1.00 - 3.00
+AEROENG 8518,Advanced Mathematical Methods in Engineering,3.00
+AEROENG 8830,Random Dynamical Systems,3.00
+AEROENG 8850,Robust Multivariable Control with Applications,3.00
+AEROENG 8851,Advanced Propulsion Problems,3.00
+AEROENG 8873,Advanced Computational Fluid Dynamics,3.00
+AEROENG 8890,Aerospace Engineering Graduate Seminar,1.00
+AEROENG 8997,Advanced Topics in Aerospace Engineering,1.00 - 3.00
+AEROENG 8998,Graduate Research in Aerospace Engineering,1.00 - 15.00
+AEROENG 8999,Aerospace Engineering Research for Dissertation,1.00 - 16.00
+AVIATN 2000,Introduction to the Aviation Industry,3.00
+AVIATN 2100,Private Pilot Fundamentals,5.00
+AVIATN 2101,Private Pilot Flight Lab I,2.00
+AVIATN 2102,Private Pilot Flight Lab II,2.00
+AVIATN 2150,Introduction to Flight Operations,3.00
+AVIATN 2200,Aviation Organization Analysis and Writing,3.00
+AVIATN 2300,Aircraft Performance and Weather,3.00
+AVIATN 2400,Fundamentals in Uncrewed Aircraft Systems,3.00
+AVIATN 2401,UAS Ground and Flight Operations,3.00
+AVIATN 2501,Commercial Cross Country Flight Lab,2.00
+AVIATN 2850,Applied Aircraft Performance I,3.00
+AVIATN 2900,Air Traffic Control Fundamentals,3.00
+AVIATN 3000,Aviation Management and Marketing,3.00
+AVIATN 3100,Instrument Flight Fundamentals,3.00
+AVIATN 3101,Instrument Flight Lab,3.00
+AVIATN 3193,Individual Studies in Aviation,2.00 - 5.00
+AVIATN 3194,Group Studies in Aviation,2.00 - 5.00
+AVIATN 3200,Aviation Regulations and Policy,3.00
+AVIATN 3300,Aviation Human Factors and Safety,3.00
+AVIATN 3340.01,Aviation Human Factors Transition,2.00
+AVIATN 3400,Aviation Accident Investigation,3.00
+AVIATN 3600,Business and Corporate Aviation Management,3.00
+AVIATN 3700,Building a Diverse Workforce in Aviation,3.00
+AVIATN 3800,Advanced Uncrewed Aviation Operations Beyond Visual Line of Sight,3.00
+AVIATN 3850,Applied Aircraft Performance II,3.00
+AVIATN 3900,Air Traffic Management Systems and Environment,3.00
+AVIATN 4000,Air Transportation Analysis I,3.00
+AVIATN 4100,Commercial Flight Fundamentals,3.00
+AVIATN 4101,Commercial Flight Lab,2.00
+AVIATN 4102,Commercial Pilot ASEL Flight Laboratory,2.00
+AVIATN 4200,Aircraft Dispatch Fundamentals,3.00
+AVIATN 4201,Applied Dispatching,3.00
+AVIATN 4300,Advanced Multi-Engine Operations,2.00
+AVIATN 4301,Commercial Multi Engine Flight Lab,2.00
+AVIATN 4400,Airport Management,3.00
+AVIATN 4500,Aviation Capstone,3.00
+AVIATN 4520,Aviation Capstone: Aviation Engineering,3.00
+AVIATN 4800,Professional Practices in Industry,2.00 - 5.00
+AVIATN 4999H,Aviation Engineering Research for Honors Thesis,1.00 - 3.00
+AVIATN 5000,Air Transportation Analysis II,3.00
+AVIATN 5100,Flight Instructor Methodology,2.00
+AVIATN 5101,Flight Instructor ASE Flight Lab,2.00
+AVIATN 5102,Flight Instructor AME Lab,1.00
+AVIATN 5193,Individual Studies in Aviation,2.00 - 5.00
+AVIATN 5194,Group Studies in Aviation,2.00 - 5.00
+AVIATN 5200,Instrument Flight Instructor Methodology,2.00
+AVIATN 5201,Flight Instructor Instrument Flight Lab,1.00
+AVIATN 5300,"Airport Planning, Design, and Development",3.00
+AVIATN 5400,Access and Retention in Aviation and STEM Workforces,3.00
+AVIATN 5998H,Honors Research in Aviation,1.00 - 6.00
+BIOMEDE 2000,Introduction to Biomedical Engineering,3.00
+BIOMEDE 2001,Professional Development,1.00
+BIOMEDE 2193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 2194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 2200,Quantitative Principles of Cellular and Molecular Systems,3.00
+BIOMEDE 2700,Numerical Simulations in BME,2.00
+BIOMEDE 2800,Anatomy for Engineers,3.00
+BIOMEDE 3701,Biomedical Engineering Domain Lab,2.00
+BIOMEDE 3702,Measurements and Instrumentation Lab,3.00
+BIOMEDE 3703,Quantitative Physiology,3.00
+BIOMEDE 4001,Clinical Preceptorship in BME,3.00
+BIOMEDE 4110,Bioimaging,3.00
+BIOMEDE 4193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 4194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 4210,Biotransport,3.00
+BIOMEDE 4310,Biomaterials,3.00
+BIOMEDE 4410,Biomechanics,3.00
+BIOMEDE 4510,"Cell, Molecular, and Tissue Engineering",3.00
+BIOMEDE 4610,Biomedical Micro/Nanotechnology,3.00
+BIOMEDE 4711,Bioimaging Lab,0.50
+BIOMEDE 4712,Biotransport Lab,0.50
+BIOMEDE 4713,Biomaterials Lab,0.50
+BIOMEDE 4714,Biomechanics Lab,0.50
+BIOMEDE 4715,"Molecular, Cell, and Tissue Engineering Lab",0.50
+BIOMEDE 4716,BME Micro/Nanotechnology Lab,0.50
+BIOMEDE 4901,Biomedical Engineering Capstone Design I,3.00
+BIOMEDE 4901.01,General BME Capstone I,3.00
+BIOMEDE 4901.02,Industry BME Capstone I,3.00
+BIOMEDE 4901.03,Medical Product Development Capstone I,3.00
+BIOMEDE 4902,Biomedical Engineering Capstone Design II,3.00
+BIOMEDE 4902.01,General BME Capstone II,3.00
+BIOMEDE 4902.02,Industry BME Capstone II,3.00
+BIOMEDE 4902.03,Medical Product Development Capstone II,3.00
+BIOMEDE 4998.01,Undergraduate Research in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 4998.02,Undergraduate Research in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 4999,Biomedical Engineering Undergraduate Thesis Research,1.00 - 6.00
+BIOMEDE 4999H,Biomedical Engineering Undergraduate Honors Thesis Research,1.00 - 6.00
+BIOMEDE 5001,Cardiovascular Bioengineering,3.00
+BIOMEDE 5110,Biomedical Microscopic Imaging,3.00
+BIOMEDE 5120,Biomedical Optics,3.00
+BIOMEDE 5160,Medical Imaging and Processing,3.00
+BIOMEDE 5170,Fundamentals of Medical Imaging,3.00
+BIOMEDE 5177,Biomedical Atomic Force Microscopy,3.00
+BIOMEDE 5186,Biomedical Ultrasound,3.00
+BIOMEDE 5193,Individual Studies in Biomedical Engineering,1.00 - 12.00
+BIOMEDE 5194.01,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.02,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.03,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.04,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.05,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.06,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.07,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.08,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5194.09,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 5210,Advanced Biological Transport,3.00
+BIOMEDE 5310,Advanced Biomaterials,3.00
+BIOMEDE 5340,Polymers in Bioengineering,3.00
+BIOMEDE 5353,Hard-Tissue Biomaterials,3.00
+BIOMEDE 5359,Extracellular Matrix in BME,3.00
+BIOMEDE 5420,Mechanobiology,3.00
+BIOMEDE 5421,Tissue Mechanics,3.00
+BIOMEDE 5430,Finite Element Applications in BME,3.00
+BIOMEDE 5470,Cell & Tissue Mechanics,3.00
+BIOMEDE 5510,Advanced Tissue Engineering,3.00
+BIOMEDE 5520,Cell Engineering,3.00
+BIOMEDE 5550,Engineering Principles in Cancer,3.00
+BIOMEDE 5560,Biomedical Engineering Applications in Cancer Biology,3.00
+BIOMEDE 5580,Excitable Cell Engineering,3.00
+BIOMEDE 5610,Advanced Biomedical Micro/Nanotechnologies,3.00
+BIOMEDE 5635,Cellular Nanotechnology,3.00
+BIOMEDE 5639,Medical Device Development and Regulation,3.00
+BIOMEDE 5661,Biomedical Nanotechnology I,3.00
+BIOMEDE 5663,Introduction to Microfluidics and Nanofluidics,3.00
+BIOMEDE 5667,BioMEMS Microfabrication,3.00
+BIOMEDE 5668,Biomedical Microtransducers,3.00
+BIOMEDE 5669,Principles and Design Theory for Advanced Medical Devices,3.00
+BIOMEDE 5710,Machine Learning in Biomedical Engineering,3.00
+BIOMEDE 5810,Biomedical Industry and Professionalism Seminar,1.00
+BIOMEDE 5901,Medical Product Development I,3.00
+BIOMEDE 5902,Medical Product Development II,3.00
+BIOMEDE 6000,Scientific Methods in Biomedical Engineering,1.00
+BIOMEDE 6113,Magnetic Resonance Spectroscopy and Imaging I,3.00
+BIOMEDE 6170,Microscopy in Biomechanics,3.00
+BIOMEDE 6350,Extracellular Matrix in Bioengineering,3.00
+BIOMEDE 6430,Mechanobiology of the Musculoskeletal System in Development and Disease,3.00
+BIOMEDE 6530,Engineering Cell Plasticity,3.00
+BIOMEDE 6983,Research Ethics,2.00
+BIOMEDE 6999,Biomedical Engineering Research for Thesis,1.00 - 16.00
+BIOMEDE 7114,Magnetic Resonance Spectroscopy and Imaging II,3.00
+BIOMEDE 8193,Individual Studies in Biomedical Engineering,1.00 - 16.00
+BIOMEDE 8194,Group Studies in Biomedical Engineering,1.00 - 6.00
+BIOMEDE 8810,Biomedical Engineering Seminars I,0.00
+BIOMEDE 8811,Biomedical Engineering Seminars II,1.00
+BIOMEDE 8812,Biomedical Engineering Seminars III,0.00
+BIOMEDE 8813,Biomedical Engineering Seminars IV,1.00
+BIOMEDE 8999,Biomedical Engineering Research for Dissertation,1.00 - 16.00
+CBE 2100,Chemical Engineering Seminar,1.00
+CBE 2194,Group Studies in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 2200,Process Fundamentals,3.00
+CBE 2345,Computational Methods for Chemical Engineering,3.00
+CBE 2420,Transport Phenomena I,3.00
+CBE 2523,Separation Processes,3.00
+CBE 3421,Transport Phenomena II - Heat Transfer,3.00
+CBE 3422,Transport Phenomena III - Mass Transfer,3.00
+CBE 3508,Chemical Engineering Thermodynamics I,3.00
+CBE 3509,Chemical Engineering Thermodynamics II,3.00
+CBE 3521,Transport Phenomena II,4.00
+CBE 3610,Kinetics and Reactor Design,3.00
+CBE 3631,Chemical and Biomolecular Engineering Unit Operations Laboratory I,2.00
+CBE 3632,Chemical and Biomolecular Engineering Unit Operations Laboratory II,2.00
+CBE 3730,Unit Operations I,1.00
+CBE 3731,Unit Operations II,1.00
+CBE 3732,Unit Operations III,2.00
+CBE 4193,Individual Studies in Chemical and Biomolecular Engineering,1.00 - 12.00
+CBE 4194,Group Studies in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 4624,Chemical Process Dynamics and Control,3.00
+CBE 4755,Chemical Process Safety,2.00
+CBE 4760,Chemical Engineering Economy and Strategy,3.00
+CBE 4764,Chemical and Biomolecular Engineering Process Design and Development,3.00
+CBE 4998,Undergraduate Research in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 4998H,Honors Undergraduate Research in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 4999,Chemical and Biomolecular Engineering Research for Thesis,1.00 - 5.00
+CBE 4999H,Chemical and Biomolecular Engineering Research for Honors Thesis,1.00 - 5.00
+CBE 5194,Group Studies in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 5200,Introduction to Petroleum Engineering,3.00
+CBE 5210,Petroleum Reservoir Engineering,3.00
+CBE 5230,Petroleum Drilling and Production Engineering,3.00
+CBE 5260,Petroleum Project Evaluation,3.00
+CBE 5550,Engineering Principles in Cancer,3.00
+CBE 5710,Computational Catalysis,3.00
+CBE 5712,Catalysis and Catalytic Processes,3.00
+CBE 5713,Fuel Cells and Catalysis,3.00
+CBE 5715,Particle Technology,3.00
+CBE 5734,Molecular Informatics,3.00
+CBE 5735,Cellular Nanotechnology,3.00
+CBE 5738,Polymers in Bioengineering,3.00
+CBE 5740,Quantitative Cell Biology for Engineers and Scientists,3.00
+CBE 5745,Responsive Soft Matter in Chemical Engineering,3.00
+CBE 5755,Chemical Process Safety,3.00
+CBE 5761,Chemical and Biomolecular Engineering Processes,3.00
+CBE 5765,Principles of Biochemical Engineering,3.00
+CBE 5766,Biotechnology and Bioprocess Engineering,3.00
+CBE 5771,Air Pollution,3.00
+CBE 5772,Principles of Sustainable Engineering,3.00
+CBE 5773,Introduction to High Polymer Engineering,3.00
+CBE 5774,Polymer Membranes,3.00
+CBE 5775,Rheology of Fluids,3.00
+CBE 5777,"Introduction to Polymer Engineering at Macro-, Micro-, and Nanoscale",3.00
+CBE 5779,Design and Analysis of Experiments,3.00
+CBE 5780,Molecular Dynamics Simulations,3.00
+CBE 5790,Modeling and Simulation,3.00
+CBE 6999,Thesis Research in Chemical and Biomolecular Engineering,1.00 - 15.00
+CBE 8189,Teaching Mentorship in Chemical and Biomolecular Engineering,3.00
+CBE 8194,Group Studies in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 8781,Research Communications in Chemical and Biomolecular Engineering,2.00
+CBE 8799,Teaching Practicum in Chemical and Biomolecular Engineering,1.00 - 6.00
+CBE 8801,Analysis of Chemical and Biomolecular Engineering Problems,3.00
+CBE 8808,Advanced Thermodynamics I,3.00
+CBE 8809,Advanced Thermodynamics II,3.00
+CBE 8812,Advanced Kinetics I,3.00
+CBE 8815,Advanced Transport,3.00
+CBE 8895,Seminar in Chemical and Biomolecular Engineering,1.00
+CBE 8999,Dissertation Research in Chemical and Biomolecular Engineering,1.00 - 15.00
+CIVILEN 2001,Introduction to Infrastructure,3.00
+CIVILEN 2050,Probabilistic Applications and Data Interpretation in Civil and Environmental Engineering,3.00
+CIVILEN 2060,Numerical Analysis Methods for Civil and Environmental Engineering Applications,4.00
+CIVILEN 2090,Professional Aspects of Civil and Environmental Engineering,1.00
+CIVILEN 2193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 2194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 2405,Computer Graphics for Civil Engineers,1.00
+CIVILEN 2410,Introduction to Surveying,3.00
+CIVILEN 2810,Construction Engineering and Management: An Introduction,3.00
+CIVILEN 3080,Economic Evaluation and Optimization in Civil and Environmental Engineering,3.00
+CIVILEN 3130,Fluid Mechanics,3.00
+CIVILEN 3160,Water Resources Engineering,3.00
+CIVILEN 3310,Structural Engineering Principles,3.00
+CIVILEN 3510,Civil Engineering Materials,3.00
+CIVILEN 3540,Geotechnical Engineering,2.00
+CIVILEN 3541,Geotechnical Engineering Laboratory,1.00
+CIVILEN 3700,Transportation Engineering and Analysis,3.00
+CIVILEN 4001,Civil Engineering Capstone I,2.00
+CIVILEN 4002,Civil Engineering Capstone II,2.00
+CIVILEN 4011,Civil Engineering Global Capstone I,2.00
+CIVILEN 4012,Civil Engineering Global Capstone II,2.00
+CIVILEN 4191.01,Civil Engineering Internship I,1.00
+CIVILEN 4191.02,Civil Engineering Internship II,2.00
+CIVILEN 4193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 4194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 4210,The Physics of Sustainable Buildings,3.00
+CIVILEN 4310,Structural Analysis,3.00
+CIVILEN 4320,Structural Steel Design,3.00
+CIVILEN 4340,Behavior of Structural Element,3.00
+CIVILEN 4350,Reinforced Concrete Design,3.00
+CIVILEN 4552,Design and Construction of Flexible Pavements,3.00
+CIVILEN 4800,Project Management in Civil Engineering,3.00
+CIVILEN 4998,Undergraduate Research in Civil Engineering,1.00 - 5.00
+CIVILEN 4998H,Undergraduate Research in Civil Engineering,1.00 - 5.00
+CIVILEN 4999,Civil Engineering Research for Thesis,1.00 - 5.00
+CIVILEN 4999H,Civil Engineering Research for Thesis,1.00 - 5.00
+CIVILEN 5130,Applied Hydrology,3.00
+CIVILEN 5162,Introduction to Laminated Composite Materials,3.00
+CIVILEN 5168,Introduction to the Finite Element Method,3.00
+CIVILEN 5194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 5220,Open Channel Hydraulics,3.00
+CIVILEN 5230,Transport Phenomena in Water Resources Engineering,3.00
+CIVILEN 5240,Groundwater Engineering,3.00
+CIVILEN 5300,"Airport Planning, Design, and Development",3.00
+CIVILEN 5310,Matrix Structural Analysis,3.00
+CIVILEN 5320,Intermediate Structural Steel Design,3.00
+CIVILEN 5350,Intermediate Reinforced Concrete Design,3.00
+CIVILEN 5360,Bridge Engineering,3.00
+CIVILEN 5370,Prestressed Concrete Design,3.00
+CIVILEN 5390,Knowledge-Based Systems in Engineering,2.00
+CIVILEN 5400,Introduction to Geographic Information Systems,4.00
+CIVILEN 5410,Engineering Surveying,3.00
+CIVILEN 5411,Legal Surveying,3.00
+CIVILEN 5412,Land Boundary & Development Principles,3.00
+CIVILEN 5420,Remote Sensing of Environment,3.00
+CIVILEN 5421,Spatial Analysis Techniques for Civil Engineering,3.00
+CIVILEN 5422,Terrain Analysis,3.00
+CIVILEN 5441,Introduction to GPS: Theory and Applications,3.00
+CIVILEN 5461,Geospatial Numerical Analysis,4.00
+CIVILEN 5510,Durability and Condition Assessment of Reinforced Concrete Structures,3.00
+CIVILEN 5561,"Rock Mechanics, Slope Stability and Retaining Structures",3.00
+CIVILEN 5571,Principles of Foundation Analysis and Design,3.00
+CIVILEN 5581,Numerical Methods in Geotechnical Engineering,3.00
+CIVILEN 5610.01,Sustainable WaSH Infrastructure for Developing Rural Communities,3.00
+CIVILEN 5610.02,Safe Water on Tap,3.00
+CIVILEN 5700,Urban Transportation Demand Forecasting,3.00
+CIVILEN 5720,Transportation Engineering Data Collection Studies,3.00
+CIVILEN 5730,Highway Location and Design,3.00
+CIVILEN 5740,Design and Operation of Road Traffic Facilities,3.00
+CIVILEN 5750,"Instrumentation, Signals, and Control in Transportation Applications",3.00
+CIVILEN 5760,Network Metrics and Control in Transportation Systems,3.00
+CIVILEN 5770,Urban Public Transportation,3.00
+CIVILEN 5780,Seminar in Transportation Engineering and Planning,1.00
+CIVILEN 5810,Construction Safety and Forensics,3.00
+CIVILEN 5820,Construction Estimating,3.00
+CIVILEN 5830,Construction Scheduling,3.00
+CIVILEN 5840,Construction Contracts and Claims,3.00
+CIVILEN 6002,Structural Design Studio II,3.00
+CIVILEN 6193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 6194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 6210,The Physics of Sustainable Buildings,3.00
+CIVILEN 6211,Simulation of Building Energy Performance,3.00
+CIVILEN 6230,Numerical Models in Water Resources Engineering,3.00
+CIVILEN 6300,Dynamics of Structures,3.00
+CIVILEN 6435,Global Navigation Satellite Systems (GNSS) Data Processing,3.00
+CIVILEN 6451,Introduction to Photogrammetry,3.00
+CIVILEN 6510,Advanced Concrete Materials,3.00
+CIVILEN 6880,Civil Engineering Graduate Seminar,1.00
+CIVILEN 6999,Civil Engineering Research for Thesis,1.00 - 15.00
+CIVILEN 7320,Structural Reliability,3.00
+CIVILEN 7330,Earthquake Engineering,3.00
+CIVILEN 7350,Advanced Reinforced Concrete,3.00
+CIVILEN 7421,Advanced Machine Learning for Remote Sensing Image Interpretation,3.00
+CIVILEN 7432,Advanced Spatial Databases,4.00
+CIVILEN 7442,Fundamentals of GPS and Reference Systems,4.00
+CIVILEN 7452,Spatial Geometry and Spectral Analysis,4.00
+CIVILEN 7453,Photogrammetric Computer Vision,3.00
+CIVILEN 7730,Transportation Demand Modeling,4.00
+CIVILEN 7740,Urban Transportation Network Analysis,4.00
+CIVILEN 7760,Transportation Management Systems,3.00
+CIVILEN 7770,Infrastructure Systems Analysis,3.00
+CIVILEN 7780,Graduate Student Seminar in Transportation Engineering and Planning,1.00
+CIVILEN 7790,Transportation Practicum,4.00
+CIVILEN 8193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 8194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 8443,Advanced Topics in GPS,3.00
+CIVILEN 8454,Videogrammetry,3.00
+CIVILEN 8462,Advanced Geospatial Sensors and Methods,4.00
+CIVILEN 8810,Construction Intelligent System and Simulation I,3.00
+CIVILEN 8820,Construction Intelligent System and Simulation II,3.00
+CIVILEN 8998,Graduate Research in Civil Engineering,1.00 - 15.00
+CIVILEN 8999,Civil Engineering Research for Dissertation,1.00 - 15.00
+CSE 1110,Introduction to Computing Technology,3.00
+CSE 1111,Introduction to Computer-Assisted Problem Solving,3.00
+CSE 1112,Introduction to Computer-Assisted Problem Solving for Construction Systems Management,3.00
+CSE 1113,Spreadsheet Programming for Business,1.00
+CSE 1114,Introduction to Databases Using MS Access,1.50
+CSE 1194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 1211,"Computational Thinking in Context: Images, Animation, and Games",3.00
+CSE 1212,Computational Thinking in Context: Mobile Applications,3.00
+CSE 1213,Computational Thinking in Context: Game Development,4.00
+CSE 1221,Introduction to Computer Programming in MATLAB for Engineers and Scientists,2.00
+CSE 1222,Introduction to Computer Programming in C++ for Engineers and Scientists,3.00
+CSE 1223,Introduction to Computer Programming in Java,3.00
+CSE 1224,Introduction to Computer Programming in Python,3.00
+CSE 2021,Introduction to Modeling and Simulation,3.00
+CSE 2111,Modeling and Problem Solving with Spreadsheets and Databases,3.00
+CSE 2112,Modeling and Problem Solving with Spreadsheets and Databases for Engineers,3.00
+CSE 2122,Data Structures Using C++,3.00
+CSE 2123,Data Structures Using Java,3.00
+CSE 2133,Business Programming with File Processing,3.00
+CSE 2193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2193H,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2194H,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 2221,Software I: Software Components,4.00
+CSE 2231,Software II: Software Development and Design,4.00
+CSE 2321,Foundations I: Discrete Structures,3.00
+CSE 2331,Foundations II: Data Structures and Algorithms,3.00
+CSE 2371,Quantum Circuits and Algorithms,3.00
+CSE 2421,Systems I: Introduction to Low-Level Programming and Computer Organization,4.00
+CSE 2431,Systems II: Introduction to Operating Systems,3.00
+CSE 2451,Advanced C Programming,2.00
+CSE 2501,"Social, Ethical, and Professional Issues in Computing",1.00
+CSE 3231,Software Engineering Techniques,3.00
+CSE 3232,Software Requirements Analysis,3.00
+CSE 3241,Introduction to Database Systems,3.00
+CSE 3244,Data Management in the Cloud,3.00
+CSE 3321,Automata and Formal Languages,3.00
+CSE 3341,Principles of Programming Languages,3.00
+CSE 3421,Introduction to Computer Architecture,3.00
+CSE 3430,Overview of Computer Systems For Non-Majors,4.00
+CSE 3461,Computer Networking and Internet Technologies,3.00
+CSE 3521,Survey of Artificial Intelligence I: Basic Techniques,3.00
+CSE 3541,Computer Game and Animation Techniques,3.00
+CSE 3901,"Project: Design, Development, and Documentation of Web Applications",4.00
+CSE 3902,"Project: Design, Development, and Documentation of Interactive Systems",4.00
+CSE 3903,"Project: Design, Development, and Documentation of System Software",4.00
+CSE 4191,Professional Practice in Industry,0.00
+CSE 4193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4193H,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4194H,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 4251,The UNIX Programming Environment,1.00
+CSE 4252,Programming in C++,1.00
+CSE 4253,Programming in C#,1.00
+CSE 4254,Programming in Lisp,1.00
+CSE 4256,Programming in Python,1.00
+CSE 4471,Information Security,3.00
+CSE 4998,Undergraduate Research in Computer Science and Engineering,1.00 - 10.00
+CSE 4998H,Undergraduate Research in Computer Science and Engineering,1.00 - 10.00
+CSE 4999,Computer Science and Engineering Research for Thesis,1.00 - 10.00
+CSE 4999H,Computer Science and Engineering Research for Thesis,1.00 - 10.00
+CSE 5022,Software I: Software Components,3.00
+CSE 5023,Software II: Software Development and Design,3.00
+CSE 5032,Foundations I: Discrete Structures,2.00
+CSE 5042,Systems I: Introduction to Low-Level Programming and Computer Organization,3.00
+CSE 5043,Overview of Computer Systems For Non-Majors,3.00
+CSE 5052,Survey of Artificial Intelligence for Non-Majors,3.00
+CSE 5194.01,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 5194.02,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 5231,Software Engineering Techniques,2.00
+CSE 5232,Software Requirements Analysis,2.00
+CSE 5234,Distributed Enterprise Computing,3.00
+CSE 5235,Applied Enterprise Architectures and Services,3.00
+CSE 5236,Mobile Application Development,3.00
+CSE 5239,Intermediate Studies in Software Engineering,2.00 - 3.00
+CSE 5241,Introduction to Database Systems,2.00
+CSE 5242,Advanced Database Management Systems,3.00
+CSE 5243,Introduction to Data Mining,3.00
+CSE 5245,Introduction to Network Science,3.00
+CSE 5249,Intermediate Studies in Databases,2.00 - 3.00
+CSE 5321,Automata and Formal Languages,2.00
+CSE 5329,Intermediate Studies in Computation Theory,2.00 - 3.00
+CSE 5331,Foundations II: Data Structures and Algorithms,2.00
+CSE 5339,Intermediate Studies in Algorithms,2.00 - 3.00
+CSE 5341,Principles of Programming Languages,2.00
+CSE 5343,Compiler Design and Implementation,3.00
+CSE 5349,Intermediate Studies in Programming Languages,2.00 - 3.00
+CSE 5351,Introduction to Cryptography,3.00
+CSE 5359,Intermediate Studies in Cryptography,2.00 - 3.00
+CSE 5361,Numerical Methods,3.00
+CSE 5421,Introduction to Computer Architecture,2.00
+CSE 5429,Intermediate Studies in Computer Architecture,2.00 - 3.00
+CSE 5431,Systems II: Introduction to Operating Systems,2.00
+CSE 5432,Mobile Handset Systems and Networking,3.00
+CSE 5433,Operating Systems Laboratory,3.00
+CSE 5434,Comparative Operating Systems,3.00
+CSE 5439,Intermediate Studies in Operating Systems,2.00 - 3.00
+CSE 5441,Introduction to Parallel Computing,3.00
+CSE 5442,High-Performance Deep/Machine Learning,3.00
+CSE 5449,Intermediate Studies in Parallel Computing,2.00 - 3.00
+CSE 5461,Computer Networking and Internet Technologies,2.00
+CSE 5462,Network Programming,3.00
+CSE 5463,Introduction to Wireless Networking,3.00
+CSE 5469,Intermediate Studies in Computer Networking,2.00 - 3.00
+CSE 5471,Introduction to Cybersecurity,3.00
+CSE 5472,Information Security Projects,3.00
+CSE 5473,Network Security,3.00
+CSE 5474,Software Security,3.00
+CSE 5477.01,Offensive Security,3.00
+CSE 5477.02,Reverse Engineering and Malware Analysis,3.00
+CSE 5479,Intermediate Studies in Computer Security,2.00 - 3.00
+CSE 5501,"Social, Ethical, and Professional Issues in Computing",1.00
+CSE 5521,Survey of Artificial Intelligence I: Basic Techniques,2.00
+CSE 5522,Survey of Artificial Intelligence II: Advanced Techniques,3.00
+CSE 5523,Machine Learning and Statistical Pattern Recognition,3.00
+CSE 5524,Computer Vision for Human-Computer Interaction,3.00
+CSE 5525,Foundations of Speech and Language Processing,3.00
+CSE 5526,Introduction to Neural Networks,3.00
+CSE 5531,Introduction to Cognitive Science,3.00
+CSE 5539,Intermediate Studies in Artificial Intelligence,2.00 - 3.00
+CSE 5541,Computer Game and Animation Techniques,2.00
+CSE 5542,Real-Time Rendering,3.00
+CSE 5543,Geometric Modeling,3.00
+CSE 5544,Introduction to Data Visualization,3.00
+CSE 5545,Advanced Computer Graphics,3.00
+CSE 5546,Virtual Reality,3.00
+CSE 5559,Intermediate Studies in Computer Graphics,2.00 - 3.00
+CSE 5821,Legal Topics for Computer Engineers,3.00
+CSE 5889,Intermediate Studies in Multidisciplinary Computing,2.00 - 3.00
+CSE 5891,Proseminar in Cognitive Science,2.00
+CSE 5911,Capstone Design: Software Applications,4.00
+CSE 5912,Capstone Design: Game Design and Development,4.00
+CSE 5913,Capstone Design: Computer Animation,4.00
+CSE 5914,Capstone Design: Knowledge-Based Systems,4.00
+CSE 5915,Capstone Design: Information Systems,4.00
+CSE 5916,Capstone Design: Research-Focused Projects,4.00
+CSE 6011,Computational Thinking in Context,3.00
+CSE 6012,Introduction to Computer Programming in Java,3.00
+CSE 6013,Data Structures Using Java,
+CSE 6193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 6194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 6239,Advanced Studies in Software Engineering,1.00 - 3.00
+CSE 6249,Advanced Studies in Databases,1.00 - 3.00
+CSE 6321,Computability and Complexity,3.00
+CSE 6329,Advanced Studies in Computation Theory,1.00 - 3.00
+CSE 6331,Algorithms,3.00
+CSE 6332,Advanced Algorithms,3.00
+CSE 6333,Distributed Algorithms,3.00
+CSE 6339,Advanced Studies in Algorithms,1.00 - 3.00
+CSE 6341,Foundations of Programming Languages,3.00
+CSE 6349,Advanced Studies in Programming Languages,1.00 - 3.00
+CSE 6359,Advanced Studies in Cryptography,1.00 - 3.00
+CSE 6421,Computer Architecture,3.00
+CSE 6422,Advanced Computer Architecture,3.00
+CSE 6429,Advanced Studies in Computer Architecture,1.00 - 3.00
+CSE 6431,Advanced Operating Systems,3.00
+CSE 6439,Advanced Studies in Operating Systems,1.00 - 3.00
+CSE 6441,Parallel Computing,3.00
+CSE 6449,Advanced Studies in Parallel Computing,1.00 - 3.00
+CSE 6461,Computer Communication Networks,3.00
+CSE 6469,Advanced Studies in Computer Networking,1.00 - 3.00
+CSE 6479,Advanced Studies in Computer Security,1.00 - 3.00
+CSE 6520,Foundations of Applied Artificial Intelligence for Non-Majors,3.00
+CSE 6521,Artificial Intelligence,3.00
+CSE 6539,Advanced Studies in Artificial Intelligence,1.00 - 3.00
+CSE 6559,Advanced Studies in Computer Graphics,1.00 - 3.00
+CSE 6891,Departmental Research Seminar,1.00
+CSE 6998,MS Research in Computer Science and Engineering,0.50 - 10.00
+CSE 6999,MS Thesis Research in Computer Science and Engineering,1.00 - 10.00
+CSE 8193,Individual Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 8194,Group Studies in Computer Science and Engineering,1.00 - 10.00
+CSE 8998,PhD Research in Computer Science and Engineering,0.50 - 10.00
+CSE 8999,PhD Dissertation Research in Computer Science and Engineering,1.00 - 10.00
+ECE 2020,Introduction to Analog Systems and Circuits,3.00
+ECE 2021,Introduction to Analog Systems and Circuits for Transfer Students Lecture,2.50
+ECE 2027,Introduction to Analog Systems and Circuits Lab for Transfer Students,0.50
+ECE 2050,Introduction to Discrete Time Signals & Systems,3.00
+ECE 2051,Introduction to Discrete Time Signals & Systems Lecture,2.50
+ECE 2057,Introduction to Discrete Time Signals & Systems Laboratory,0.50
+ECE 2060,Introduction to Digital Logic,3.00
+ECE 2061,Introduction to Digital Logic for Transfer Students Lecture,2.50
+ECE 2067,Introduction to Digital Logic Lab for Transfer Students,0.50
+ECE 2193,Individual Studies in Electrical and Computer Engineering,0.00 - 10.00
+ECE 2194.01,Group Studies: Sustainable Energy and Society,0.00 - 6.00
+ECE 2194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 2300,Electrical Circuits and Electronic Devices,3.00
+ECE 2301,Electrical Circuits and Electronic Devices Lecture,2.50
+ECE 2307,Electrical Circuits and Electronic Devices Laboratory,0.50
+ECE 2360,Electronics for CSE majors,3.00
+ECE 2560,Introduction to Microcontroller-Based Systems,2.00
+ECE 2998.01,Undergraduate Research,0.50 - 3.00
+ECE 2998.02,Undergraduate Research,0.50 - 3.00
+ECE 3010,Introduction to Radio Frequency and Optical Engineering,3.00
+ECE 3020,Introduction to Electronics,3.00
+ECE 3027,Electronics Laboratory,1.00
+ECE 3030,Semiconductor Electronic Devices,3.00
+ECE 3040,Sustainable Energy and Power Systems I,3.00
+ECE 3047,Sustainable Energy and Energy Conversion Lab,1.00
+ECE 3050,Signals and Systems,3.00
+ECE 3090,Technical Writing and Presentations,1.00
+ECE 3551,Introduction to Feedback Control Systems,3.00
+ECE 3561,Advanced Digital Design,3.00
+ECE 3567,Microcontroller Lab,1.00
+ECE 3900,Capstone Design I,1.00
+ECE 3905,Capstone Design I,3.00
+ECE 3906,Capstone Design I,4.00
+ECE 4021,Analog Integrated Circuits I,3.00
+ECE 4193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 4194.01,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 4567,Design of Mobile Internet-of-Things,4.00
+ECE 4900,Capstone Design II,3.00
+ECE 4900H,Design II with Honors Thesis Project,3.00
+ECE 4905,Capstone Design II,3.00
+ECE 4905H,Capstone Design II with Honors Thesis,3.00
+ECE 4998.01,Undergraduate Research,0.50 - 3.00
+ECE 4998.01H,Undergraduate Honors Research,0.50 - 3.00
+ECE 4998.02,Undergraduate Research,0.50 - 3.00
+ECE 4999.01,Undergraduate Thesis Research,0.50 - 3.00
+ECE 4999.01H,Undergraduate Honors Thesis Research,0.50 - 3.00
+ECE 5000,Introduction to Analog and Digital Communications,3.00
+ECE 5007,Communications Laboratory,0.50
+ECE 5010,Wireless Propagation and Remote Sensing,3.00
+ECE 5011,Antennas,3.00
+ECE 5012,Integrated Optics,3.00
+ECE 5013,Introduction to Radar Systems,3.00
+ECE 5017,Microwave Engineering,4.00
+ECE 5020,Mixed Signal VLSI,3.00
+ECE 5021,Analog Integrated Circuits II,3.00
+ECE 5022,Introduction to RF Systems,3.00
+ECE 5023,Fundamentals of Integrated Data Converters,3.00
+ECE 5025,"Power Electronics: Devices, Circuits, and Applications",3.00
+ECE 5027,Microwave Electronics,4.00
+ECE 5031,Semiconductor Process Technology,3.00
+ECE 5033,Surfaces and Interfaces of Electronic Materials,3.00
+ECE 5037,Solid State Electronics and Photonics Laboratory,4.00
+ECE 5041,Electric Machines,3.00
+ECE 5042,Power Systems,3.00
+ECE 5043,Power Systems - Analysis and Operation,3.00
+ECE 5047,High Voltage Engineering and Laboratory,3.00
+ECE 5050,Humanitarian Engineering,3.00
+ECE 5078,Empowering the Entrepreneurial Electrical and Computer Engineer,3.00
+ECE 5101,Introduction to Wireless Networking,3.00
+ECE 5120,Introduction to Integrated Circuits Test and Measurement,3.00
+ECE 5127,Power Electronics Lab,1.00
+ECE 5131,Lasers,3.00
+ECE 5132,Photonics,3.00
+ECE 5194.01,Group Studies: An Introduction to Radar Systems,3.00
+ECE 5194.02,Group Studies: Contol and Optimization for the Smart Grid,0.00 - 6.00
+ECE 5194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 5200,Introduction to Digital Signal Processing,3.00
+ECE 5206,Medical Imaging and Processing,3.00
+ECE 5207,Real-Time Digital Signal Processing Laboratory,0.50
+ECE 5227,Fundamentals of Power Management Integrated Circuits for VLSI Systems,4.00
+ECE 5237,Photovoltaics Laboratory,4.00
+ECE 5244,Si and Wide Band Gap Power Devices,3.00
+ECE 5307,Introduction to Machine Learning for ECE,4.00
+ECE 5362,Computer Architecture and Design,3.00
+ECE 5400,"Instrumentation, Signals, and Control in Transportation Applications",3.00
+ECE 5460,Image Processing,3.00
+ECE 5462,HDL Design and Verification,3.00
+ECE 5463,Introduction to Real Time Robotics Systems,3.00
+ECE 5465,Advanced Microcomputers,3.00
+ECE 5466,Embedded Computer Systems,3.00
+ECE 5500,Nonlinear and Dynamic Programming for ECE,3.00
+ECE 5510,Introduction to Computational Electromagnetics,3.00
+ECE 5530,Fundamentals of Semiconductors for Microelectronics and Photonics,3.00
+ECE 5537,Semiconductor Device Characterization and Modelling Lab,4.00
+ECE 5550,Feedback Control Engineering for Social Justice,3.00
+ECE 5551,State-Space Control Systems,3.00
+ECE 5553,Autonomy in Vehicles,3.00
+ECE 5554,Powertrain Control Systems,3.00
+ECE 5555,Securing Autonomous Systems,3.00
+ECE 5561,Introduction to Cybersecurity,3.00
+ECE 5567.01,Offensive Security,3.00
+ECE 5567.02,Reverse Engineering and Software Security,3.00
+ECE 5832,Photovoltaics and Energy Conversion,3.00
+ECE 5833,Organic and Printed Flexible Electronics,3.00
+ECE 6001,Probability and Random Variables,3.00
+ECE 6010,Electromagnetic Field Theory I,3.00
+ECE 6011,Bioelectromagnetics,3.00
+ECE 6070,Project Management in Electrical and Computer Engineering,3.00
+ECE 6101,Computer Communication Networks,3.00
+ECE 6102,Wireless Networks,3.00
+ECE 6193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 6194.01,Group Studies: Multi-Agent Control in Electric Systems,0.00 - 6.00
+ECE 6194.02,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.03,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 6202,Stochastic Signal Processing,3.00
+ECE 6244,Design and Process Integration for Wide Band Gap Power Devices,3.00
+ECE 6400,Introduction to Photogrammetry,3.00
+ECE 6500,Convex and Stochastic Network Optimization,3.00
+ECE 6511,Nonlinear Optics,3.00
+ECE 6531,Fundamentals of Semiconductor Devices,3.00
+ECE 6532,Nanofabrication and Nanoscale Devices,3.00
+ECE 6533,Infrared Detectors and Systems,3.00
+ECE 6535,Semiconductor Optoelectronic Devices,3.00
+ECE 6541,Advanced Topics in Sustainable Energy and Power Systems,3.00
+ECE 6750,Linear Systems Theory,3.00
+ECE 6754,Nonlinear Systems Theory,3.00
+ECE 6999,Research for Thesis,0.50 - 15.00
+ECE 7001,"Stochastic Processes, Detection, and Estimation",3.00
+ECE 7003,Wireless Communication Theory,3.00
+ECE 7005,Information Theory,3.00
+ECE 7010,Electromagnetic Field Theory II,3.00
+ECE 7011,Computational Electromagnetics,3.00
+ECE 7020,Advanced Data Converters and Phase-Locked Loops,3.00
+ECE 7022,Advanced RF Integrated Circuits,3.00
+ECE 7023,High Speed Interface Circuits and Systems Design,3.00
+ECE 7027,Advanced Topics in Analog VLSI Design,4.00
+ECE 7032,Physical Electronics of Advanced Semiconductor Devices,3.00
+ECE 7080,Ethics and Professionalism,1.00
+ECE 7103,Discrete Stochastic Processes,3.00
+ECE 7202,Reinforcement Learning,3.00
+ECE 7402,Advanced Machine Learning for Remote Sensing Image Interpretation,3.00
+ECE 7531,Epitaxial Heterostructures,2.00
+ECE 7811,Electromagnetic Interference and Compatibility,3.00
+ECE 7813,Advanced Antenna Theory and Design,3.00
+ECE 7814,Microwave Remote Sensing,3.00
+ECE 7821,Mixed Signal Verification and CAD Tools,3.00
+ECE 7822,Advanced Nonlinear Microwave Circuit Engineering,3.00
+ECE 7831,Microwave Semiconductor Devices,3.00
+ECE 7841,Advanced Topics in Power Electronics,3.00
+ECE 7842,Advanced Topics in Electric Machines,3.00
+ECE 7843,Advanced Topics in Power Systems,3.00
+ECE 7854,Nonlinear and Adaptive Control,3.00
+ECE 7855,Large Scale and Cyber-Physical Systems,3.00
+ECE 7858,Intelligent Control,3.00
+ECE 7859,Sliding Mode Control in Electromechanical Systems,3.00
+ECE 7861,Scientific Computing on Emerging Architectures,3.00
+ECE 7866,Computer Vision,3.00
+ECE 8001,Advanced Topics in Communications,3.00
+ECE 8019,Advanced Topics in Electromagnetics and Optics,3.00
+ECE 8101,Advanced Topics in Networking,3.00
+ECE 8193,Individual Studies in Electrical and Computer Engineering,0.00 - 12.00
+ECE 8194.01,Group Studies: Hybrid Systems Theory and Applications,0.00 - 6.00
+ECE 8194.02,Group Studies: Power System Control,0.00 - 6.00
+ECE 8194.03,Group Studies: Advanced Embedded System Design,0.00 - 6.00
+ECE 8194.04,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.05,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.06,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.07,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.08,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.09,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.10,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.11,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.12,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.13,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.14,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.15,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.16,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.17,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.18,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.19,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.20,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.21,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.22,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.23,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.24,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8194.25,Group Studies in Electrical and Computer Engineering,0.00 - 6.00
+ECE 8201,Advanced Topics in Signal Processing,3.00
+ECE 8250,Continuous Time Optimal Control,3.00
+ECE 8850,Robust Multi-Variable Control with Applications,3.00
+ECE 8851,Advanced Topics in Control Theory,3.00
+ECE 8861,Special Topics on Computational Modeling,3.00
+ECE 8862,Special Topics in Advanced Computer Design Methodologies,3.00
+ECE 8891,Seminar in Electrical and Computer Engineering,0.50 - 2.00
+ECE 8898,Open Graduate Seminar,0.50 - 3.00
+ECE 8999,Research for Dissertation,0.50 - 15.00
+ENGR 1100.01,Introduction to Ohio State and Mechanical and Aerospace Engineering,1.00
+ENGR 1100.02,Introduction to Ohio State and Aviation,1.00
+ENGR 1100.03,Introduction to Ohio State and Biomedical Engineering,1.00
+ENGR 1100.05,Introduction to Ohio State and Civil and Environmental Engineering,1.00
+ENGR 1100.06,Introduction to Ohio State and Computer Science and Engineering,1.00
+ENGR 1100.07,Introduction to Ohio State and Electrical and Computer Engineering,1.00
+ENGR 1100.08,Introduction to Ohio State and Engineering Physics,1.00
+ENGR 1100.10,"Introduction to Ohio State and Food, Agricultural, and Biological Engineering",1.00
+ENGR 1100.11,Introduction to Ohio State and Industrial and Systems Engineering,1.00
+ENGR 1100.12,Introduction to Ohio State and Materials Science and Welding Engineering,1.00
+ENGR 1100.13,Introduction to Ohio State and Mechanical Engineering,1.00
+ENGR 1100.15,Introduction to Ohio State and Engineering,1.00
+ENGR 1100.15H,Introduction to Ohio State and Engineering,1.00
+ENGR 1110.01,Introduction to Ohio State and Aeronautical and Astronautical Engineering I,0.50
+ENGR 1110.02,Introduction to Ohio State and Aviation I,0.50
+ENGR 1110.03,Introduction to Ohio State and Biomedical Engineering I,0.50
+ENGR 1110.04,Introduction to Ohio State and Chemical and Biomolecular Engineering I,0.50
+ENGR 1110.05,Introduction to Ohio State and Civil Engineering I,0.50
+ENGR 1110.06,Introduction to Ohio State and Computer Science and Engineering I,0.50
+ENGR 1110.07,Introduction to Ohio State and Electrical and Computer Engineering I,0.50
+ENGR 1110.08,Introduction to Ohio State and Engineering Physics I,0.50
+ENGR 1110.09,Introduction to Ohio State and Environmental Engineering I,0.50
+ENGR 1110.11,Introduction to Ohio State and Industrial and Systems Engineering I,0.50
+ENGR 1110.12,Introduction to Ohio State and Materials Science and Engineering I,0.50
+ENGR 1110.13,Introduction to Ohio State and Mechanical Engineering I,0.50
+ENGR 1110.14,Introduction to Ohio State and Welding Engineering I,0.50
+ENGR 1120.01,Introduction to Ohio State and Aeronautical and Astronautical Engineering II,0.50
+ENGR 1120.02,Introduction to Ohio State and Aviation II,0.50
+ENGR 1120.03,Introduction to Ohio State and Biomedical Engineering II,0.50
+ENGR 1120.04,Introduction to Ohio State and Chemical and Biomolecular Engineering II,0.50
+ENGR 1120.05,Introduction to Ohio State and Civil Engineering II,0.50
+ENGR 1120.06,Introduction to Ohio State and Computer Science and Engineering II,0.50
+ENGR 1120.07,Introduction to Ohio State and Electrical and Computer Engineering II,0.50
+ENGR 1120.08,Introduction to Ohio State and Engineering Physics II,0.50
+ENGR 1120.09,Introduction to Ohio State and Environmental Engineering II,0.50
+ENGR 1120.10,"Introduction to Ohio State and Food, Agricultural, and Biological Engineering II",0.50
+ENGR 1120.11,Introduction to Ohio State and Industrial and Systems Engineering II,0.50
+ENGR 1120.12,Introduction to Ohio State and Materials Science and Engineering II,0.50
+ENGR 1120.13,Introduction to Ohio State and Mechanical Engineering II,0.50
+ENGR 1120.14,Introduction to Ohio State and Welding Engineering II,0.50
+ENGR 1138,Fundamentals of Mathematics for Engineers,4.00
+ENGR 1180,Spatial Visualization Practice and Development,1.00
+ENGR 1181.01,Fundamentals of Engineering I,2.00
+ENGR 1181.02,Fundamentals of Engineering I - Scholars,2.00
+ENGR 1182.01,Fundamentals of Engineering II,2.00
+ENGR 1182.02,Fundamentals of Engineering II - Scholars,2.00
+ENGR 1182.04,Fundamentals of Engineering 2 - Engineering Technology,2.00
+ENGR 1186.01,Fundamentals of Engineering for Transfer - CAD,1.50
+ENGR 1187,Fundamentals of Engineering for Transfer - MATLAB,1.00
+ENGR 1188,Fundamentals of Engineering for Transfer - Problem Solving and Design,1.50
+ENGR 1194,Group Studies in Engineering,1.00 - 4.00
+ENGR 1194H,Group Studies in Engineering - Honors,1.00 - 4.00
+ENGR 1195,First-Year LEAP Seminar,1.00
+ENGR 1195.02,Second Year LEAP Seminar,1.00
+ENGR 1196,Minority Engineering Program Seminar,1.00
+ENGR 1197.01,Green Engineering Scholars Seminar,1.00
+ENGR 1197.02,Humanitarian Engineering Scholars Seminar,1.00
+ENGR 1221,Introduction to Computer Programming in MATLAB for Engineers and Scientists,2.00
+ENGR 1259,Fundamentals of Academic Success for Engineering Students,3.00
+ENGR 1281.01H,Fundamentals of Engineering for Honors I,5.00
+ENGR 1281.02H,Fundamentals of Engineering for Honors I - Advanced Programming,5.00
+ENGR 1282.01H,Fundamentals of Engineering for Honors II - Robotics,3.00
+ENGR 1282.02H,Fundamentals of Engineering for Honors II - Nanotechnology,3.00
+ENGR 1282.04H,Fundamentals of Engineering for Honors 2 - Integrated Business & Engineering,3.00
+ENGR 1300,Introduction to Writing for STEM,3.00
+ENGR 1510,Metacognitive Engineering Problem Solving Strategies,1.00
+ENGR 2193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 2194,Group Studies in Engineering,1.00 - 4.00
+ENGR 2194H,Group Studies in Engineering,1.00 - 4.00
+ENGR 2230,Mentorship in Robotics,1.00
+ENGR 2231,FIRST Robotics Mentorship,1.00 - 3.00
+ENGR 2300,Citizenship in Engineering Contexts,3.00
+ENGR 2301,Exploring Citizenship in Engineering: Integrative Designation,4.00
+ENGR 2367,American Attitudes About Technology,3.00
+ENGR 2367.01H,Honors American Attitudes About Technology,3.00
+ENGR 2797.01,Engineering Study Abroad in North America,0.50 - 12.00
+ENGR 2797.02,Engineering Study Abroad in Central America,0.50 - 12.00
+ENGR 2797.03,Engineering Study Abroad in South America,0.50 - 12.00
+ENGR 2797.04,Engineering Study Abroad in East Asia,0.50 - 12.00
+ENGR 2797.05,Engineering Study Abroad in South Asia,0.50 - 12.00
+ENGR 2797.06,Engineering Study Abroad in Central Asia,0.50 - 12.00
+ENGR 2797.07,Engineering Study Abroad in Oceania,0.50 - 12.00
+ENGR 2797.08,Engineering Study Abroad in Middle East,0.50 - 12.00
+ENGR 2797.09,Engineering Study Abroad in Africa,0.50 - 12.00
+ENGR 2797.10,Engineering Study Abroad in Europe,0.50 - 12.00
+ENGR 2797.11S,"Service Learning Trip to Montana de Luz, Honduras",3.00
+ENGR 3194,Group Studies in Engineering,1.00 - 4.00
+ENGR 4191,Professional Practice in Engineering,0.00
+ENGR 4193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 4194,Group Studies in Engineering,1.00 - 4.00
+ENGR 4194H,Group Studies in Engineering Honors,1.00 - 4.00
+ENGR 4375,Inclusive Leadership Practice for Emerging Professionals,1.00
+ENGR 4692.01S,Service Learning in Engineering,1.00 - 3.00
+ENGR 4692.02S,Engineering Service Learning Ghana Preparation,3.00
+ENGR 4850S,Translating Engineering Research to K-8 (TEK8),3.00
+ENGR 4891,"Colloquia, Workshops, and College Seminars",1.00 - 4.00
+ENGR 4891.01,College Seminar - Perspectives on Sustainability,1.00
+ENGR 4891.02,College Seminar - Promoting Creativity and Innovation,2.00
+ENGR 4910,Tools for Engineering Career Success,1.00
+ENGR 4998.01,Undergraduate Research in Engineering Education,1.00 - 4.00
+ENGR 4998.02,Undergraduate Research in Engineering,1.00 - 4.00
+ENGR 4999H,Engineering Education Research for Thesis,1.00 - 5.00
+ENGR 5081.01,Engineering Capstone Collaboration I,3.00
+ENGR 5081.02,Engineering Capstone Collaboration II,3.00
+ENGR 5194,Group Studies in Engineering,1.00 - 4.00
+ENGR 5680,Leading in Engineering Organizations,1.50
+ENGR 5695,Engineering Teamwork Seminar,1.00
+ENGR 5797.01,Engineering Study Abroad in North America,0.50 - 12.00
+ENGR 5797.02,Engineering Study Abroad in Central America,0.50 - 12.00
+ENGR 5797.03,Engineering Study Abroad in South America,0.50 - 12.00
+ENGR 5797.04,Engineering Study Abroad in East Asia,0.50 - 12.00
+ENGR 5797.05,Engineering Study Abroad in South Asia,0.50 - 12.00
+ENGR 5797.06,Engineering Study Abroad in Central Asia,0.50 - 12.00
+ENGR 5797.07,Engineering Study Abroad in Oceania,0.50 - 12.00
+ENGR 5797.08,Engineering Study Abroad in Middle East,0.50 - 12.00
+ENGR 5797.09,Engineering Study Abroad in Africa,0.50 - 12.00
+ENGR 5797.10,Engineering Study Abroad in Europe,0.50 - 12.00
+ENGR 5797.11S,Engineering Service-Learning in Honduras,3.00
+ENGR 5797.12,Exploring Culture and Engineering in India,3.00
+ENGR 5797.13,Engineering the Castles and Cathedrals of England and Wales,3.00
+ENGR 5797.14,OSU - Colombia Collaboration,3.00
+ENGR 5797.15,Korea Aerospace University International Summer Program,3.00
+ENGR 5797.16S,Solar Engineering Service-Learning,3.00
+ENGR 5797.17S,Engineering Service-Learning Ghana In Country,4.00
+ENGR 5797.18,Engineering of Ancient Greece,3.00
+ENGR 5797.19,Design Principles and Biomedical Research at Nanjing University,3.00
+ENGR 5797.20,Sustainable and Resilient Infrastructure in Italy,3.00
+ENGR 5797.21S,Sustainable and Resilient Tanzanian Communities - Engineering,1.00 - 3.00
+ENGR 5797.22S,Guatemala Service-Learning,3.00
+ENGR 5797.23,Humanitarian Engineering and Culture in Guyana,3.00
+ENGR 5797.24,Sustainable Community Development - Honduras,3.00
+ENGR 5797.25,International Perspectives on Aviation,3.00
+ENGR 5797.26,Japanese American Design Experience (JADE),3.00
+ENGR 5901.01,Multidisciplinary Engineering Capstone Design Project I,3.00
+ENGR 5901.02H,Multidisciplinary Engineering Capstone Design Project 1 - Honors IBE,3.00
+ENGR 5902.01,Multidisciplinary Engineering Capstone Design Project II,3.00
+ENGR 5902.02H,Multidisciplinary Engineering Capstone Design Project II - Honors IBE,3.00
+ENGR 6000,ENG Graduate Professional Development,1.00
+ENGR 6193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 6194,Group Studies in Engineering,1.00 - 4.00
+ENGR 6210,Leadership and Team Effectiveness for Engineers,3.00
+ENGR 6220,Financial and Managerial Accounting for Engineers,3.00
+ENGR 6230,Technology Strategy & Innovation for Engineers,3.00
+ENGR 6240,Operational Excellence Master of Engineering Management Capstone,3.00
+ENGR 6850S,Translating Engineering Research to K-8 (TEK8),3.00
+ENGR 6892.01,Studies in Engineering for In-Service Teachers,1.00
+ENGR 7100,MGEL Integrative Project,1.00 - 5.00
+ENGR 7193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 7194,Group Studies in Engineering,1.00 - 4.00
+ENGR 7200,Engineering Ethics and Professionalism,1.00
+ENGR 7710,Engineering Research Communications,3.00
+ENGR 7881,Interdepartmental Seminar,1.00 - 4.00
+ENGR 7891,"Colloquia, Workshops, and Seminars",1.00 - 4.00
+ENGR 8194,Group Studies in Engineering,1.00 - 4.00
+ENGR 8998,Research in Engineering Education,1.00 - 10.00
+ENGR 8999,Research in Engineering Education for Dissertation,1.00 - 10.00
+ENGREDU 4999,Undergraduate Thesis Research in Engineering Education,1.00 - 5.00
+ENGREDU 4999H,Undergraduate Honors Thesis Research in Engineering Education,1.00 - 5.00
+ENGREDU 6100,Foundations and the Field of Engineering Education,3.00
+ENGREDU 6194,Group Studies in Engineering Education,1.00 - 4.00
+ENGREDU 6200,"Learning Theory, Pedagogy, and Assessment in Engineering Education",3.00
+ENGREDU 7189.01,Teaching Preparation and Support,2.00
+ENGREDU 7189.02,Professional Development in College Teaching,1.00
+ENGREDU 7193,Individual Studies in Engineering Education,1.00 - 4.00
+ENGREDU 7194,Group Studies in Engineering Education,1.00 - 4.00
+ENGREDU 7780,Research Design in Engineering Education,3.00
+ENGREDU 7881,Seminar in Engineering Education,1.00
+ENGREDU 7900,Career Exploration and Professional Development,3.00
+ENGREDU 8998,Research in Engineering Education,1.00 - 5.00
+ENGREDU 8999,Research in Engineering Education for Dissertation,1.00 - 18.00
+ENGRTEC 1200,Introduction to Engineering Technology,1.00
+ENGRTEC 1500,Manufacturing Processes I,3.00
+ENGRTEC 1600,Engineering Graphics,3.00
+ENGRTEC 2100,Introduction to Robotics with Vision,2.00
+ENGRTEC 2300,Electrical Circuits for Engineering Technology,3.00
+ENGRTEC 2500,Manufacturing Processes II,2.00
+ENGRTEC 3100,Material Science with Engineering Technology Applications,0.50
+ENGRTEC 3600,"Technology, Structure and Applications for Controls",3.00
+ENGRTEC 3700,Mechanical Processes,3.00
+ENGRTEC 3800,Project Management for Engineering Technology,3.00
+ENGRTEC 3900,Industrial Automation PLC1,3.00
+ENGRTEC 4191.01,Professional Development Internship in Eng Tech I,1.00
+ENGRTEC 4191.02,Professional Development Internship in Eng Tech II,2.00
+ENGRTEC 4200,Industrial Automation - PLC2,3.00
+ENGRTEC 4250,Lean Six Sigma Foundations,3.00
+ENGRTEC 4300,Facility Layout and Integration,3.00
+ENGRTEC 4400,Leadership and Change Management,3.00
+ENGRTEC 4500,Intelligent Manufacturing and Automation,3.00
+ENGRTEC 4600,Power and Drives,3.00
+ENGRTEC 4700,"Networks, Security, & Safety Applications",3.00
+ENGRTEC 4900,ENGRTEC Capstone I,3.00
+ENGRTEC 4910,ENGRTEC Capstone II,3.00
+ENVENG 2100,Environmental Engineering Analytical Methods,3.00
+ENVENG 2193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 2194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 3200,Fundamentals of Environmental Engineering,3.00
+ENVENG 3210,Environmental Engineering Unit Operations,3.00
+ENVENG 3600,Technology Innovation for Sustainability,4.00
+ENVENG 4090,Environmental Engineering Capstone Design,3.00
+ENVENG 4193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 4194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 4200,Environmental Engineering Unit Operations Lab,1.00
+ENVENG 4218,Measurement and Modeling of Climate Change,3.00
+ENVENG 4400,Integrated Environmental Chemical Fate and Transport,3.00
+ENVENG 4600,Assessment for Human Rights and Sustainability,3.00
+ENVENG 4998,Undergraduate Research in Environmental Engineering,1.00 - 5.00
+ENVENG 4998H,Undergraduate Research in Environmental Engineering,1.00 - 5.00
+ENVENG 4999,Environmental Engineering Research for Thesis,1.00 - 5.00
+ENVENG 4999H,Environmental Engineering Research for Thesis,1.00 - 5.00
+ENVENG 5110,Environmental Engineering Bioprocesses,3.00
+ENVENG 5120,Bioremediation of Groundwater and Soil,3.00
+ENVENG 5140,Air Quality Engineering,3.00
+ENVENG 5170,Sustainability and the Circular Economy,3.00
+ENVENG 5194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 5195,Engineering Design for Environmental Health,3.00
+ENVENG 5210,Advanced Physical Chemical Treatment Processes,3.00
+ENVENG 5217,Applied Mathematical Ecology,3.00
+ENVENG 5410,Hazardous Waste Management and Remediation,2.00
+ENVENG 5600,"Science, Engineering, and Public Policy",3.00
+ENVENG 5718,Aquatic Chemistry,3.00
+ENVENG 5719,Environmental Organic Chemistry,3.00
+ENVENG 5760,Design of Urban Stormwater Control Measures,3.00
+ENVENG 5850,Advanced Topics in Environmental Engineering,1.00 - 3.00
+ENVENG 5880,Environmental Engineering Seminar,1.00
+ENVENG 6020,Foundations of Data-Driven Sustainable Energy Systems,3.00
+ENVENG 6100,Environmental Engineering Analytical Methods,3.00
+ENVENG 6193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 6194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 6200,Fundamentals of Environmental Engineering,3.00
+ENVENG 6210,Environmental Engineering Unit Operations,3.00
+ENVENG 6218,Measurement and Modeling of Climate Change for Graduate Students,3.00
+ENVENG 6220,Data Analysis in Environmental Engineering,3.00
+ENVENG 6400,Integrated Environmental Chemical Fate and Transport for Graduate Students,3.00
+ENVENG 6600,Assessment for Human Rights and Sustainability,3.00
+ENVENG 6610,"Analytic Frameworks for Analysis of Science, Engineering, and Policy",3.00
+ENVENG 6999,Environmental Engineering Research Thesis,1.00 - 15.00
+ENVENG 7220,Colloidal and Interfacial Processes in Aquatic Systems,3.00
+ENVENG 8193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 8194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 8998,Graduate Research in Environmental Engineering,1.00 - 15.00
+ENVENG 8999,Environmental Engineering Research Dissertation,1.00 - 15.00
+ISE 2010,Systems Modeling,3.00
+ISE 2040.01,Engineering Economics In-Person,2.00
+ISE 2040.02,Engineering Economics - Online,2.00
+ISE 2194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 2400,Design of Work: Methods and Measurement,2.00
+ISE 2500,Introduction to Manufacturing Engineering,3.00
+ISE 3194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 3200,Linear and Integer Programming,3.00
+ISE 3210,Nonlinear and Dynamic Optimization,3.00
+ISE 3230,Systems Modeling and Optimization for Analytics,3.00
+ISE 3400,Production Planning and Facilities Design,4.00
+ISE 3500,Process Engineering for Machining Operations,3.00
+ISE 3600,Workplace Ergonomics: Analysis and Design of Physical Work Systems,3.00
+ISE 3700,Cognitive Engineering Systems,3.00
+ISE 3800,Engineering Project Management,3.00
+ISE 4100,Stochastic Modeling and Simulation,4.00
+ISE 4120,Quality and Reliability Engineering,3.00
+ISE 4193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 4194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 4500,Manufacturing Process Engineering,3.00
+ISE 4510,Manufacturing Engineering,3.00
+ISE 4891,"Colloquia, Workshops, and Seminars in Integrated Systems Engineering",1.00 - 4.00
+ISE 4900,Capstone Design,4.00
+ISE 4998,Undergraduate Research in Integrated Systems Engineering,1.00 - 4.00
+ISE 4998H,Honors Undergraduate Research in Integrated Systems Engineering,1.00 - 4.00
+ISE 4999,Undergraduate Research for Thesis,1.00 - 4.00
+ISE 4999H,Honors Undergraduate Research for Thesis,1.00 - 4.00
+ISE 5043,Power Systems - Analysis and Operation,3.00
+ISE 5110,Design of Engineering Experiments,3.00
+ISE 5193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 5194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 5200,Linear Optimization,3.00
+ISE 5201,Theory of Linear Optimization,3.00
+ISE 5220,Complementarity Theory & Applications,3.00
+ISE 5225,Electricity Market Analytics,3.00
+ISE 5230,Decomposition Techniques in Mathematical Programming,3.00
+ISE 5350,Probabilistic Models and Methods in Operations Research,3.00
+ISE 5410,Quantitative Models in Production and Distribution Logistics,3.00
+ISE 5430,Warehouse and Facility Design,3.00
+ISE 5450,Industrial Ecology,3.00
+ISE 5463,Manufacturing of Energy Systems,3.00
+ISE 5501,Fundamentals of Solid State Processing,3.00
+ISE 5502,Molten Metal Processing,3.00
+ISE 5503,Manufacturing Processes and Simulation,3.00
+ISE 5520,Industrial Automation,1.50
+ISE 5521,Advanced Sheet Forming Laboratory,1.50
+ISE 5525,Industrial Robotics,1.50
+ISE 5530,Fundamentals of Tool Engineering,3.00
+ISE 5540,Polymer Processing Fundamentals,3.00
+ISE 5550,Principles of Precision Engineering,3.00
+ISE 5555,Manufacturing Processes and Machine Tools,3.00
+ISE 5570,Manufacturing Data Processing and Analysis,3.00
+ISE 5600,Principles of Occupational Biomechanics and Ergonomics,3.00
+ISE 5610,Ergonomics in the Product Design Process,3.00
+ISE 5620,Risk Assessment Tools for Occupational Musculoskeletal Disorders,3.00
+ISE 5630,What Every Engineer and Designer Should Know about Human Factors Engineering,1.50
+ISE 5640,Occupational Safety: Analysis and Design of Work Environments,3.00
+ISE 5650,Introduction and Practical Experience in Ergonomics Research,1.00 - 3.00
+ISE 5682.01,Fundamentals of Product Design Engineering,3.00
+ISE 5682.02,Product Design Engineering for Entrepreneurs,3.00
+ISE 5700,Introduction to Cognitive Systems Engineering,3.00
+ISE 5705,Cognitive Engineering Systems: Distributed and Cooperative Work,3.00
+ISE 5710,Behind Human Error: Safety and Complex Systems,3.00
+ISE 5720,Human Systems Integration,3.00
+ISE 5730,Information Analysis and Synthesis,3.00
+ISE 5740,Cognitive Engineering Systems: Human-Centered Automation,3.00
+ISE 5745,Human-Centered Machine Learning,3.00
+ISE 5760,Visual Analytics and Sensemaking,3.00
+ISE 5770,Cognitive Engineering Systems: Design and Evaluation,3.00
+ISE 5800,Advanced Project Management,3.00
+ISE 5810,Lean Sigma Foundations,4.00
+ISE 5811,Lean Sigma Certification Project (Part I),3.00
+ISE 5812,LeanSigma Certification Project II,3.00
+ISE 5813,Integrated Lean Six Sigma Capstone Certification Experience,4.00
+ISE 5815,Integrated LeanSigma Fundamentals,3.00
+ISE 5820,Systems Thinking in Engineering and Design,3.00
+ISE 5830,Decision Analysis,3.00
+ISE 5870,Resilience Engineering,3.00
+ISE 6020,Foundations of Data-Driven Sustainable Energy Systems,3.00
+ISE 6120,Quality Improvement and Analytics,3.00
+ISE 6193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 6194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 6220,Network Optimization,3.00
+ISE 6290,Stochastic Optimization,3.00
+ISE 6300,Simulation for System Analytics and Decision-Making,3.00
+ISE 6557,Advanced Metallic Materials and Processing,2.00
+ISE 6801,Project Management for Engineers,3.00
+ISE 6840,Market Engineering and Applications,4.00
+ISE 6999,Research for Thesis in Industrial & Systems Engineering,1.00 - 15.00
+ISE 7100,Advanced Simulation,3.00
+ISE 7120,Advanced Quality Control and Improvement,3.00
+ISE 7193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 7194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 7200,Advanced Nonlinear Optimization,3.00
+ISE 7202,Reinforcement Learning,3.00
+ISE 7210,Large Scale Optimization,3.00
+ISE 7230,Integer Optimization,3.00
+ISE 7250,Operations Research Models and Methods,3.00
+ISE 7270,Computational Optimization,3.00
+ISE 7300,Stochastic Processes,3.00
+ISE 7420,Sequencing and Scheduling,3.00
+ISE 7510,Computational Analysis of Manufacturing Processes,3.00
+ISE 7610,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Spine Biomechanics,3.00
+ISE 7615,Biomechanics Research Practicum: Experience in Spine Biomechanics,3.00
+ISE 7620,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Upper Extremity Biomechanics,3.00
+ISE 7625,Biomechanics Research Practicum: Experience in Upper Extremity Biomechanics,3.00
+ISE 7630,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Contemporary Issues,3.00
+ISE 7700,Cognitive Systems Engineering: Advanced Topics,3.00
+ISE 7710,Cognitive Systems Engineering Research Practicum,3.00
+ISE 7720,Cognitive Systems Engineering: Models and Methods,3.00
+ISE 7881,Interdepartmental Seminar,1.00 - 4.00
+ISE 7882,Interdepartmental Seminar for MBLE program,1.00 - 4.00
+ISE 7883,Department Seminar,1.00
+ISE 7891,"Colloquia, Workshops, and Seminars in Integrated Systems Engineering",1.00 - 4.00
+ISE 8099,Special Topics in Systems Engineering,1.00 - 4.00
+ISE 8194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 8299,Special Topics in Optimization,1.00 - 4.00
+ISE 8399,Special Topics in Stochastic Modeling,1.00 - 4.00
+ISE 8499,Special Topics in Production/Manufacturing Systems,1.00 - 4.00
+ISE 8599,Special Topics in Manufacturing Processes,1.00 - 4.00
+ISE 8699,Special Topics in Physical Ergonomics,1.00 - 4.00
+ISE 8850,Practice in Operations Research,3.00
+ISE 8899,Special Topics in Integrated Systems,1.00 - 4.00
+ISE 8998,Research in Integrated Systems Engineering,1.00 - 15.00
+ISE 8999,Research in Integrated Systems Engineering for Dissertation,1.00 - 15.00
+MATSCEN 2010,Introduction to Engineering Materials,3.00
+MATSCEN 2193,Individual Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 2194,Group Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 2241,Structure and Characterization of Materials,3.00
+MATSCEN 2251,Thermodynamics of Materials,3.00
+MATSCEN 2321,Modeling and Simulation Lab I,3.00
+MATSCEN 2331,Structure and Characterization Lab,2.00
+MATSCEN 3141,Transformation and Processing of Materials,3.00
+MATSCEN 3151,Transport Phenomena and Kinetics,3.00
+MATSCEN 3189,Professional Practice in Industry,0.50 - 3.00
+MATSCEN 3193.01,Individual Studies in Materials Science & Engineering,0.50 - 6.00
+MATSCEN 3193.02,Individual Studies in Materials Science & Engineering,0.50 - 6.00
+MATSCEN 3261,Introduction to the Mechanical Behavior of Materials,3.00
+MATSCEN 3271,Electronic Properties,3.00
+MATSCEN 3321,Modeling and Simulation Lab II,2.00
+MATSCEN 3331,Materials Science and Engineering Lab I,2.00
+MATSCEN 3332,Materials Science and Engineering Lab II,2.00
+MATSCEN 3333,Materials Science and Engineering Laboratory for Welding Engineering Students,2.00
+MATSCEN 3611,Biological Response to Biomaterials,3.00
+MATSCEN 4181,Materials Selection,2.00
+MATSCEN 4193.01,Individual Studies in Materials Science & Engineering,0.50 - 6.00
+MATSCEN 4193.02,Individual Studies in Materials Science & Engineering,0.50 - 6.00
+MATSCEN 4194,Group Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 4321,Modeling and Simulation-Based Design,3.00
+MATSCEN 4381.01,Design and Professional Practice I,3.00
+MATSCEN 4381.02,"Design and Professional Practice I, Biomedical",3.00
+MATSCEN 4382.01,Design and Professional Practice II,3.00
+MATSCEN 4382.02,"Design and Professional Practice II, Biomedical",3.00
+MATSCEN 4891,Junior Seminar I,1.00
+MATSCEN 4892,Junior Seminar II,1.00
+MATSCEN 4998,Undergraduate Research,0.50 - 3.00
+MATSCEN 4999,Undergraduate Research,0.50 - 3.00
+MATSCEN 4999H,Undergraduate Honors Research,0.50 - 3.00
+MATSCEN 5193.01,Individual Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 5193.02,Individual Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 5194,Group Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 5237,Photovoltaics Laboratory,4.00
+MATSCEN 5321,Computational Thermodynamics and Kinetics,2.00
+MATSCEN 5431,Advanced Metals Laboratory,1.00
+MATSCEN 5441,Physical Metallurgy,3.00
+MATSCEN 5451,Molten Metal Processing,3.00
+MATSCEN 5531,Ceramics Processing Laboratory,1.00
+MATSCEN 5532,"Electronic, Optical, and Magnetic Properties Laboratory",1.00
+MATSCEN 5541,Structure and Properties of Amorphous Materials,3.00
+MATSCEN 5551,Ceramic Processing,3.00
+MATSCEN 5552,Nanoscale Synthesis and Processing of Electronic Materials,3.00
+MATSCEN 5571,Electroceramics,3.00
+MATSCEN 5571.71,Electroceramics I: Electronic and Ionic Conductors,1.50
+MATSCEN 5571.72,"Electroceramics II: Dielectric, Magnetic, and Optical Ceramics",1.50
+MATSCEN 5572,Materials for Energy Technology,3.00
+MATSCEN 5575,Ultrafast Laser Materials Processing,3.00
+MATSCEN 5605,Quantitative Introduction to Materials Science,3.00
+MATSCEN 5611,Materials in Medicine,3.00
+MATSCEN 5631,Biomaterials Laboratory,1.00
+MATSCEN 5641,Structure-Property Relationships of Polymers,3.00
+MATSCEN 5651,Biomaterials Processing,3.00
+MATSCEN 5655,Biomedical Device Additive Manufacturing,3.00
+MATSCEN 5711.70,Introduction to Composites,1.50
+MATSCEN 5761.71,Mechanical Behavior of Crystalline Solids at Lower Temperature,1.50
+MATSCEN 5761.72,Mechanical Behavior of Crystalline Solids at High Temperatures,1.50
+MATSCEN 5762,Mechanical Behavior and Deformation Mechanisms of Noncrystalline Solids,3.00
+MATSCEN 5763.70,Fracture and Fatigue of Engineering Materials,1.50
+MATSCEN 5774,Polymer Membranes,3.00
+MATSCEN 5951,Corrosion,3.00
+MATSCEN 5952,Failure Analysis of Materials,3.00
+MATSCEN 5971,Solid State Science,3.00
+MATSCEN 6193.01,Individual Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 6193.02,Individual Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 6194,Group Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 6295,Superconducting Materials and Properties,2.00
+MATSCEN 6700,Essentials of Materials Science for High School Educators,2.00
+MATSCEN 6715,Principles of the Characterization of Materials,2.00
+MATSCEN 6730,Thermodynamics of Materials,3.00
+MATSCEN 6735,Corrosion Science and Materials Electrochemistry,2.00
+MATSCEN 6737,Diffusion and Interface Kinetics,3.00
+MATSCEN 6740,Practical Scanning Electron Microscopy Laboratory,2.00
+MATSCEN 6741,Practical Transmission Electron Microscopy Lab,2.00
+MATSCEN 6747,Structure and Defects in Materials,3.00
+MATSCEN 6750,Nuclear Materials and Irradiation Effects in Materials,2.00
+MATSCEN 6756,Computational Materials Modeling,2.00
+MATSCEN 6756.71,Computational Materials Modeling - Continuum Scale,1.00
+MATSCEN 6756.72,Computational Materials Modeling - Atomic Scale,1.00
+MATSCEN 6757,Advanced Metallic Materials and Processing,2.00
+MATSCEN 6765,Mechanical Behavior of Materials,3.00
+MATSCEN 6777,Electronic Properties of Materials,2.00
+MATSCEN 6778,Magnetic Materials,2.00
+MATSCEN 6999,Graduate Research in Materials Science and Engineering,0.50 - 18.00
+MATSCEN 7193.01,Individual Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 7193.02,Individual Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 7194,Group Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 7531,Epitaxial Heterostructures,2.00
+MATSCEN 7575,Ultrafast Laser Materials Processing,3.00
+MATSCEN 7818,Advanced Topics in Corrosion Science,2.00
+MATSCEN 7835,Point Defects in Crystalline Materials,2.00
+MATSCEN 7845,Solid Surfaces and Interfaces,2.00
+MATSCEN 7850,Structural Transformations,2.00
+MATSCEN 7855,"Electron Diffraction, Imaging and Spectroscopies",2.00
+MATSCEN 7861,Plasticity,2.00
+MATSCEN 7862,Microstructural Elasticity,2.00
+MATSCEN 7895,Graduate Seminar in Materials Science and Engineering,1.00
+MATSCEN 8000,MSE PhD Dissertation Overview,1.00
+MATSCEN 8193.01,Individual Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 8193.02,Individual Studies in Materials Science & Engineering,0.00 - 6.00
+MATSCEN 8194,Group Studies in Materials Science and Engineering,0.00 - 6.00
+MATSCEN 8999,Graduate Research in Materials Science and Engineering,0.50 - 18.00
+MECHENG 2010,Statics,2.00
+MECHENG 2010H,Statics,2.00
+MECHENG 2020,Introduction to Mechanics of Materials,3.00
+MECHENG 2030,Dynamics,3.00
+MECHENG 2040,Statics and Introduction to Mechanics of Materials,4.00
+MECHENG 2193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2194H,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2850.01,Numerical Methods in Mechanical Engineering,3.00
+MECHENG 2850.02,Numerical Methods in Mechanical Engineering,3.00
+MECHENG 2900,Introduction to Design in Mechanical Engineering,3.00
+MECHENG 3260,System Dynamics and Vibrations,3.00
+MECHENG 3360,System Integration and Control,3.00
+MECHENG 3500,Engineering Thermal Sciences,3.00
+MECHENG 3501,Introduction to Engineering Thermodynamics,3.00
+MECHENG 3503,Introduction to Fluid Mechanics,3.00
+MECHENG 3670,Design and Analysis of Machine Elements I,2.00
+MECHENG 3671,Design and Analysis of Machine Elements II,3.00
+MECHENG 3751,Kinematics and Mechanism Design,2.00
+MECHENG 3870,Introduction to Measurements and Data Analysis in Mechanical Engineering,3.00
+MECHENG 4193.01,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4193.02,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4194H,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4505,Introduction to Nuclear Science and Engineering,3.00
+MECHENG 4510,Heat Transfer,3.00
+MECHENG 4536,Nuclear Reactor Systems,3.00
+MECHENG 4870,Multidisciplinary Mechanical Engineering Laboratory,2.00
+MECHENG 4901.01,ME Capstone Design I: General Projects,2.50
+MECHENG 4902.01,ME Capstone Design I: Student Design Competitions,2.50
+MECHENG 4902.02,ME Capstone Design II: Student Design Competitions,2.50
+MECHENG 4903.01,ME Capstone Design I: Industry Projects,2.50
+MECHENG 4903.02,ME Capstone Design II: Industry Projects,2.50
+MECHENG 4904.01,ME Capstone Design I: Humanitarian Projects,2.50
+MECHENG 4904.02,ME Capstone Design II: Humanitarian Projects,2.50
+MECHENG 4905.01,ME Capstone Design I: Assistive Devices,2.50
+MECHENG 4905.02,ME Capstone Design II: Assistive Devices,2.50
+MECHENG 4906.01,ME Capstone Design I: Product Design Capstone,2.50
+MECHENG 4906.02,ME Capstone Design II: Product Design Capstone,2.50
+MECHENG 4998,Undergraduate Research in Mechanical Engineering,1.00 - 2.00
+MECHENG 4998H,Undergraduate Research in Mechanical Engineering,1.00 - 2.00
+MECHENG 4999,Mechanical Engineering Undergraduate Research for Thesis,1.00 - 3.00
+MECHENG 4999H,Mechanical Engineering Undergraduate Research for Thesis,1.00 - 3.00
+MECHENG 5003,Nuclear Reactor Systems and Analysis,3.00
+MECHENG 5030,Intermediate Dynamics,3.00
+MECHENG 5134,Introduction to Vibrations of Deformable Solids,3.00
+MECHENG 5139,Applied Finite Element Method,3.00
+MECHENG 5144,Engineering Fracture Mechanics,3.00
+MECHENG 5162,Introduction to Laminated Composite Materials,3.00
+MECHENG 5180,Mechanics of Biomolecular Systems,3.00
+MECHENG 5194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 5234,Vehicle Dynamics,4.00
+MECHENG 5240,Mechanical Vibrations,3.00
+MECHENG 5241,Engineering Acoustics,3.00
+MECHENG 5339,Simulation Techniques for Dynamic Systems,3.00
+MECHENG 5372,Theory and Applications of Feedback Control,3.00
+MECHENG 5374,Smart Materials and Intelligent Systems,3.00
+MECHENG 5427,Introduction to Turbomachinery,3.00
+MECHENG 5463,Introduction to Real Time Robotics Systems,3.00
+MECHENG 5502,Engineering Thermodynamics,3.00
+MECHENG 5530,Internal Combustion Engines,3.00
+MECHENG 5531,Automotive Powertrain Laboratory,3.00
+MECHENG 5535,Advanced Topics in Solar Energy Systems,3.00
+MECHENG 5539,Applied Computational Fluid Dynamics and Heat Transfer,3.00
+MECHENG 5541,"Heating, Ventilating, and Air Conditioning",3.00
+MECHENG 5550,Engineering Principles in Cancer,3.00
+MECHENG 5600,Applied Project Management in Product Development Team Environments,3.00
+MECHENG 5670,Advanced MCAD modeling with CATIA,3.00
+MECHENG 5680,Computer Aided Design and Manufacturing,4.00
+MECHENG 5682.01,Fundamentals of Product Design Engineering,3.00
+MECHENG 5682.02,Product Design Engineering for Entrepreneurs,3.00
+MECHENG 5700,Introduction to Musculoskeletal Biomechanics,3.00
+MECHENG 5751,Design and Manufacturing of Compliant Mechanisms and Robots,3.00
+MECHENG 5775,Applied Machine Learning for MAE and Robotics,3.00
+MECHENG 5797,Study at a Foreign Institution,1.00 - 10.00
+MECHENG 6193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6193.01,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6359,Extracellular Matrix in Bioengineering,3.00
+MECHENG 6501,Gas Dynamics,3.00
+MECHENG 6505,Intermediate Fluid Dynamics,3.00
+MECHENG 6507,Intermediate Numerical Methods,3.00
+MECHENG 6510,Intermediate Heat Transfer,3.00
+MECHENG 6515,Introduction to Microfluidics and Nanofluidics,3.00
+MECHENG 6526,Combustion,3.00
+MECHENG 6537,Nuclear Reactor Thermal Hydraulics,3.00
+MECHENG 6661,Advanced CAE Simulation for Structural Design,4.00
+MECHENG 6665,Reliability Engineering I,3.00
+MECHENG 6700,Musculoskeletal Biomechanics,3.00
+MECHENG 6711,Microscopy in Biomechanics,3.00
+MECHENG 6716,Probabilistic Reliability and Safety Assessment,3.00
+MECHENG 7100,Introduction to Continuum Mechanics,3.00
+MECHENG 7101,Constitutive Models in Continuum Mechanics,4.00
+MECHENG 7163,Advanced Strength of Materials and Elasticity Theory,4.00
+MECHENG 7194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 7230,Advanced Dynamics,4.00
+MECHENG 7236,Powertrain Dynamics,3.00
+MECHENG 7250,Vibration of Discrete Systems,3.00
+MECHENG 7255,Turbomachinery Dynamics,3.00
+MECHENG 7259,Sliding Mode Control in Electromechanical Systems,3.00
+MECHENG 7260,Automotive Noise and Vibration Control  I,3.00
+MECHENG 7262,Automotive Noise and Vibration Control II,3.00
+MECHENG 7263,Automotive Noise and Vibration Control II with Lab,4.00
+MECHENG 7290,Digital Control Engineering,3.00
+MECHENG 7292,Control System Labs,2.00
+MECHENG 7372,Fault Diagnosis in Dynamic Systems,3.00
+MECHENG 7374,Polymer Smart Materials and Material Systems - Advanced Modeling and Characterization,3.00
+MECHENG 7380,Lumped Parameter Modeling and System Analysis,3.00
+MECHENG 7383,Electrochemical Energy Conversion and Storage Systems for Automotive Applications,3.00
+MECHENG 7384,"Energy Modeling, Optimization, and Control of Hybrid Vehicles",3.00
+MECHENG 7385,Advanced Methods in the Dynamics and Control of Human and Animal Movement,3.00
+MECHENG 7440,Internal Combustion Engine Modeling,3.00
+MECHENG 7510,Advanced Heat Transfer,3.00
+MECHENG 7511,Computational Fluid Dynamics,3.00
+MECHENG 7513,Turbulence,3.00
+MECHENG 7520,Wave Dynamics in Fluids,3.00
+MECHENG 7526,Advanced Combustion,3.00
+MECHENG 7527,Jet Propulsion,3.00
+MECHENG 7751,Advanced Kinematics and Mechanisms,3.00
+MECHENG 7752,Mechanics and Control of Robots,3.00
+MECHENG 7760,"Form Synthesis, Assembly, and Applied Stress Analysis",3.00
+MECHENG 7761,Optimum Design of Machines and Structures,3.00
+MECHENG 7765,Principles and Applications of Tribology,3.00
+MECHENG 8038,Advanced Topics in Finite Element Method,3.00
+MECHENG 8193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 8194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 8220,Continuous Time Optimal Control,3.00
+MECHENG 8230,Nonlinear Dynamics,3.00
+MECHENG 8250,Vibration of Continuous Systems,3.00
+MECHENG 8322,Vehicle System Dynamics and Control,3.00
+MECHENG 8352,Robust Control of Mechatronic Systems,3.00
+MECHENG 8503,Statistical Thermodynamics,3.00
+MECHENG 8504,Physical Gas Dynamics,3.00
+MECHENG 8514,Optical Techniques in Fluid Flows,3.00
+MECHENG 8518,Advanced Mathematical Methods in Engineering,3.00
+MECHENG 8527,Advanced Propulsion Problems,3.00
+MECHENG 8603,"Irreversible Thermodynamics and Transport of Charge, Heat, and Spin",3.00
+MECHENG 8702,Neuromuscular Biomechanics,3.00
+MECHENG 8717,Dynamic Probabilistic Risk Assessment,3.00
+MECHENG 8777,Risk and Reliability for Digital Instrumentation and Control Systems,3.00
+MECHENG 8888,Mechanical Engineering Graduate Seminar,1.00
+MECHENG 8901,Future Academic Scholars Training I for MAE,2.00
+MECHENG 8902,Future Academic Scholars Training II for MAE,2.00
+MECHENG 8998,Graduate Research in Mechanical Engineering,1.00 - 16.00
+MECHENG 8999,Mechanical Engineering Research for Dissertation,1.00 - 16.00
+NUCLREN 2194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 2500,Nuclear Sciences and Engineering at The Ohio State University,1.00
+NUCLREN 4193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4193H,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4194H,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4505,Introduction to Nuclear Science and Engineering,3.00
+NUCLREN 4506,Undergraduate Nuclear Engineering Laboratory,3.00
+NUCLREN 4536,Nuclear Reactor Systems,3.00
+NUCLREN 4701,Introduction to Nuclear Power Engineering,3.00
+NUCLREN 4998,Undergraduate Research in Nuclear Engineering,1.00 - 6.00
+NUCLREN 4998H,Undergraduate Research in Nuclear Engineering,1.00 - 6.00
+NUCLREN 5001,Interactions of Radiation with Matter,3.00
+NUCLREN 5002,Reactor Physics,3.00
+NUCLREN 5003,Nuclear Reactor Systems and Analysis,3.00
+NUCLREN 5004,Materials in Nuclear Systems,3.00
+NUCLREN 5606,Radiation Protection and Shielding,3.00
+NUCLREN 5610,Reactor Safety,3.00
+NUCLREN 5735,Nuclear Power Plant Operations,3.00
+NUCLREN 5742,"Nuclear Instrumentation, Radiation Sensor and Detection",3.00
+NUCLREN 5776,Nuclear Fuel Cycle and Radioactive Waste Management,3.00
+NUCLREN 6193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 6194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 6507,Intermediate Numerical Methods,3.00
+NUCLREN 6537,Nuclear Reactor Thermal Hydraulics,3.00
+NUCLREN 6716,Probabilistic Reliability and Safety Assessment,3.00
+NUCLREN 6725,Nuclear Reactor Dynamics,2.00
+NUCLREN 6726,Reactor Dynamics Laboratory,2.00
+NUCLREN 6750,Nuclear Materials and Irradiation Effects in Materials,2.00
+NUCLREN 6766,Nuclear Engineering Design,2.00
+NUCLREN 6881,Nuclear Engineering Seminar,1.00
+NUCLREN 7865,Neutron Slowing Down and Thermalization,3.00
+NUCLREN 8193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 8194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 8717,Dynamic Probablistic Risk Assessment,3.00
+NUCLREN 8777,Risk and Reliability for Digital Instrumentation and Control Systems,3.00
+NUCLREN 8998,Graduate Research in Nuclear Engineering,1.00 - 12.00
+NUCLREN 8999,Nuclear Engineering Research for Dissertation,1.00 - 15.00
+WELDENG 2001,Introduction to Welding Engineering,3.00
+WELDENG 2601,Introductory Arc Welding Laboratory,1.00
+WELDENG 3193.01,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 3193.02,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 4001,Physical Principles in Welding Processes I,4.00
+WELDENG 4002,Physical Principles in Welding Processes II,4.00
+WELDENG 4003,Principles of Welding Process Control,3.00
+WELDENG 4012,Resistance Welding Processes,3.00
+WELDENG 4021,Solid-State Welding/Joining,3.00
+WELDENG 4023,Brazing and Soldering,3.00
+WELDENG 4024,High Energy Density Welding Processes,2.00
+WELDENG 4101,Welding Metallurgy I,4.00
+WELDENG 4102,Welding Metallurgy II,4.00
+WELDENG 4112,Weldability,3.00
+WELDENG 4115,Computational Modeling of Additive Manufacturing and Welding,3.00
+WELDENG 4121,Computational Thermodynamics and Kinetics,2.00
+WELDENG 4189,Industrial Experience,1.00
+WELDENG 4193.01,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 4193.02,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 4194,Group Studies in Welding Engineering,1.00 - 4.00
+WELDENG 4201,Engineering Analysis for Design and Simulation,4.00
+WELDENG 4202,Welding Design,3.00
+WELDENG 4240,Fitness-for-Service of Welded Structures,2.00
+WELDENG 4301,Nondestructive Evaluation,3.00
+WELDENG 4303,Ultrasonic Nondestructive Testing,3.00
+WELDENG 4406,Welding of Plastics and Composites,3.00
+WELDENG 4407,Adhesive Bonding and Mechanical Joining of Plastics,2.00
+WELDENG 4595,Topics in Welding Engineering,1.00
+WELDENG 4602,Welding Procedure Development and Qualification,3.00
+WELDENG 4606,Welding Robot Programming and Operations,1.00
+WELDENG 4901,Capstone Welding Design I,2.00
+WELDENG 4902,Capstone Welding Design II,3.00
+WELDENG 4998,Undergraduate Research in Welding Engineering,1.00 - 3.00
+WELDENG 4999,Undergraduate Research,0.50 - 3.00
+WELDENG 4999H,Undergraduate Honors Research in Welding Engineering,1.00 - 3.00
+WELDENG 5027,Introduction to Additive Manufacturing,3.00
+WELDENG 5038,Introduction to Ultrasonics - With Applications,3.00
+WELDENG 5193.01,Individual Studies in Welding Engineering,0.00 - 6.00
+WELDENG 5193.02,Individual Study in Welding Engineering,0.50 - 6.00
+WELDENG 6193.01,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 6193.02,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 6194,Group Studies in Welding Engineering,1.00 - 4.00
+WELDENG 6999,Graduate Research in Welding Engineering,0.50 - 18.00
+WELDENG 7001,Physical Principles in Welding Processes I,3.00
+WELDENG 7002,Physical Principles of Welding Processes II,3.00
+WELDENG 7003,Principles of Welding Process Control,3.00
+WELDENG 7012,Resistance Welding Processes,3.00
+WELDENG 7021,Solid-State Welding/Joining,3.00
+WELDENG 7023,Brazing and Soldering,3.00
+WELDENG 7024,High Energy Density Welding Processes,2.00
+WELDENG 7101,Welding Metallurgy I,3.00
+WELDENG 7102,Welding Metallurgy II,3.00
+WELDENG 7112,Weldability,3.00
+WELDENG 7115,Computational Modeling of Additive Manufacturing and Welding (Grad),3.00
+WELDENG 7121,Computational Thermodynamics and Kinetics,2.00
+WELDENG 7123,Advanced Metallurgy for Brazing and Soldering,3.00
+WELDENG 7193.01,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 7193.02,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 7194,Group Studies in Welding Engineering,1.00 - 4.00
+WELDENG 7201,Engineering Analysis for Design and Simulation,4.00
+WELDENG 7202,Welding Design,3.00
+WELDENG 7240,Fitness-for-Service of Welded Structures,2.00
+WELDENG 7301,Nondestructive Evaluation,3.00
+WELDENG 7302,Industrial Radiography,3.00
+WELDENG 7303,Ultrasonic Nondestructive Testing,3.00
+WELDENG 7406,Welding of Plastics and Composites,3.00
+WELDENG 7407,Adhesive Bonding and Mechanical Joining of Plastics,2.00
+WELDENG 7611,Welding Metallurgy Laboratory I,1.00
+WELDENG 7612,Welding Metallurgy Laboratory II,1.00
+WELDENG 7895,Graduate Seminar,1.00
+WELDENG 8004,Theory of Laser Welding,2.00
+WELDENG 8193.01,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 8193.02,Individual Studies in Welding Engineering,0.50 - 6.00
+WELDENG 8194,Group Studies in Welding Engineering,1.00 - 4.00
+WELDENG 8999,Graduate Research in Welding Engineering,0.50 - 18.00

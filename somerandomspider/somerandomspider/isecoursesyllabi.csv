@@ -1,0 +1,126 @@
+Course_Number,Course_Title,Credit_Hours
+ISE 2010,Systems Modeling,3.00
+ISE 2040.01,Engineering Economics In-Person,2.00
+ISE 2040.02,Engineering Economics - Online,2.00
+ISE 2194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 2400,Design of Work: Methods and Measurement,2.00
+ISE 2500,Introduction to Manufacturing Engineering,3.00
+ISE 3194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 3200,Linear and Integer Programming,3.00
+ISE 3210,Nonlinear and Dynamic Optimization,3.00
+ISE 3230,Systems Modeling and Optimization for Analytics,3.00
+ISE 3400,Production Planning and Facilities Design,4.00
+ISE 3500,Process Engineering for Machining Operations,3.00
+ISE 3600,Workplace Ergonomics: Analysis and Design of Physical Work Systems,3.00
+ISE 3700,Cognitive Engineering Systems,3.00
+ISE 3800,Engineering Project Management,3.00
+ISE 4100,Stochastic Modeling and Simulation,4.00
+ISE 4120,Quality and Reliability Engineering,3.00
+ISE 4193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 4194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 4500,Manufacturing Process Engineering,3.00
+ISE 4510,Manufacturing Engineering,3.00
+ISE 4891,"Colloquia, Workshops, and Seminars in Integrated Systems Engineering",1.00 - 4.00
+ISE 4900,Capstone Design,4.00
+ISE 4998,Undergraduate Research in Integrated Systems Engineering,1.00 - 4.00
+ISE 4998H,Honors Undergraduate Research in Integrated Systems Engineering,1.00 - 4.00
+ISE 4999,Undergraduate Research for Thesis,1.00 - 4.00
+ISE 4999H,Honors Undergraduate Research for Thesis,1.00 - 4.00
+ISE 5043,Power Systems - Analysis and Operation,3.00
+ISE 5110,Design of Engineering Experiments,3.00
+ISE 5193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 5194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 5200,Linear Optimization,3.00
+ISE 5201,Theory of Linear Optimization,3.00
+ISE 5220,Complementarity Theory & Applications,3.00
+ISE 5225,Electricity Market Analytics,3.00
+ISE 5230,Decomposition Techniques in Mathematical Programming,3.00
+ISE 5350,Probabilistic Models and Methods in Operations Research,3.00
+ISE 5410,Quantitative Models in Production and Distribution Logistics,3.00
+ISE 5430,Warehouse and Facility Design,3.00
+ISE 5450,Industrial Ecology,3.00
+ISE 5463,Manufacturing of Energy Systems,3.00
+ISE 5501,Fundamentals of Solid State Processing,3.00
+ISE 5502,Molten Metal Processing,3.00
+ISE 5503,Manufacturing Processes and Simulation,3.00
+ISE 5520,Industrial Automation,1.50
+ISE 5521,Advanced Sheet Forming Laboratory,1.50
+ISE 5525,Industrial Robotics,1.50
+ISE 5530,Fundamentals of Tool Engineering,3.00
+ISE 5540,Polymer Processing Fundamentals,3.00
+ISE 5550,Principles of Precision Engineering,3.00
+ISE 5555,Manufacturing Processes and Machine Tools,3.00
+ISE 5570,Manufacturing Data Processing and Analysis,3.00
+ISE 5600,Principles of Occupational Biomechanics and Ergonomics,3.00
+ISE 5610,Ergonomics in the Product Design Process,3.00
+ISE 5620,Risk Assessment Tools for Occupational Musculoskeletal Disorders,3.00
+ISE 5630,What Every Engineer and Designer Should Know about Human Factors Engineering,1.50
+ISE 5640,Occupational Safety: Analysis and Design of Work Environments,3.00
+ISE 5650,Introduction and Practical Experience in Ergonomics Research,1.00 - 3.00
+ISE 5682.01,Fundamentals of Product Design Engineering,3.00
+ISE 5682.02,Product Design Engineering for Entrepreneurs,3.00
+ISE 5700,Introduction to Cognitive Systems Engineering,3.00
+ISE 5705,Cognitive Engineering Systems: Distributed and Cooperative Work,3.00
+ISE 5710,Behind Human Error: Safety and Complex Systems,3.00
+ISE 5720,Human Systems Integration,3.00
+ISE 5730,Information Analysis and Synthesis,3.00
+ISE 5740,Cognitive Engineering Systems: Human-Centered Automation,3.00
+ISE 5745,Human-Centered Machine Learning,3.00
+ISE 5760,Visual Analytics and Sensemaking,3.00
+ISE 5770,Cognitive Engineering Systems: Design and Evaluation,3.00
+ISE 5800,Advanced Project Management,3.00
+ISE 5810,Lean Sigma Foundations,4.00
+ISE 5811,Lean Sigma Certification Project (Part I),3.00
+ISE 5812,LeanSigma Certification Project II,3.00
+ISE 5813,Integrated Lean Six Sigma Capstone Certification Experience,4.00
+ISE 5815,Integrated LeanSigma Fundamentals,3.00
+ISE 5820,Systems Thinking in Engineering and Design,3.00
+ISE 5830,Decision Analysis,3.00
+ISE 5870,Resilience Engineering,3.00
+ISE 6020,Foundations of Data-Driven Sustainable Energy Systems,3.00
+ISE 6120,Quality Improvement and Analytics,3.00
+ISE 6193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 6194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 6220,Network Optimization,3.00
+ISE 6290,Stochastic Optimization,3.00
+ISE 6300,Simulation for System Analytics and Decision-Making,3.00
+ISE 6557,Advanced Metallic Materials and Processing,2.00
+ISE 6801,Project Management for Engineers,3.00
+ISE 6840,Market Engineering and Applications,4.00
+ISE 6999,Research for Thesis in Industrial & Systems Engineering,1.00 - 15.00
+ISE 7100,Advanced Simulation,3.00
+ISE 7120,Advanced Quality Control and Improvement,3.00
+ISE 7193,Individual Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 7194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 7200,Advanced Nonlinear Optimization,3.00
+ISE 7202,Reinforcement Learning,3.00
+ISE 7210,Large Scale Optimization,3.00
+ISE 7230,Integer Optimization,3.00
+ISE 7250,Operations Research Models and Methods,3.00
+ISE 7270,Computational Optimization,3.00
+ISE 7300,Stochastic Processes,3.00
+ISE 7420,Sequencing and Scheduling,3.00
+ISE 7510,Computational Analysis of Manufacturing Processes,3.00
+ISE 7610,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Spine Biomechanics,3.00
+ISE 7615,Biomechanics Research Practicum: Experience in Spine Biomechanics,3.00
+ISE 7620,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Upper Extremity Biomechanics,3.00
+ISE 7625,Biomechanics Research Practicum: Experience in Upper Extremity Biomechanics,3.00
+ISE 7630,Advanced Topics in Biomechanics and Musculoskeletal Disorders: Contemporary Issues,3.00
+ISE 7700,Cognitive Systems Engineering: Advanced Topics,3.00
+ISE 7710,Cognitive Systems Engineering Research Practicum,3.00
+ISE 7720,Cognitive Systems Engineering: Models and Methods,3.00
+ISE 7881,Interdepartmental Seminar,1.00 - 4.00
+ISE 7882,Interdepartmental Seminar for MBLE program,1.00 - 4.00
+ISE 7883,Department Seminar,1.00
+ISE 7891,"Colloquia, Workshops, and Seminars in Integrated Systems Engineering",1.00 - 4.00
+ISE 8099,Special Topics in Systems Engineering,1.00 - 4.00
+ISE 8194,Group Studies in Integrated Systems Engineering,1.00 - 4.00
+ISE 8299,Special Topics in Optimization,1.00 - 4.00
+ISE 8399,Special Topics in Stochastic Modeling,1.00 - 4.00
+ISE 8499,Special Topics in Production/Manufacturing Systems,1.00 - 4.00
+ISE 8599,Special Topics in Manufacturing Processes,1.00 - 4.00
+ISE 8699,Special Topics in Physical Ergonomics,1.00 - 4.00
+ISE 8850,Practice in Operations Research,3.00
+ISE 8899,Special Topics in Integrated Systems,1.00 - 4.00
+ISE 8998,Research in Integrated Systems Engineering,1.00 - 15.00
+ISE 8999,Research in Integrated Systems Engineering for Dissertation,1.00 - 15.00

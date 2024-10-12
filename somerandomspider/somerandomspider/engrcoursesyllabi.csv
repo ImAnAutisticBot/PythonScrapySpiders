@@ -1,0 +1,193 @@
+Course_Number,Course_Title,Credit_Hours
+ENGR 1100.01,Introduction to Ohio State and Mechanical and Aerospace Engineering,1.00
+ENGR 1100.02,Introduction to Ohio State and Aviation,1.00
+ENGR 1100.03,Introduction to Ohio State and Biomedical Engineering,1.00
+ENGR 1100.05,Introduction to Ohio State and Civil and Environmental Engineering,1.00
+ENGR 1100.06,Introduction to Ohio State and Computer Science and Engineering,1.00
+ENGR 1100.07,Introduction to Ohio State and Electrical and Computer Engineering,1.00
+ENGR 1100.08,Introduction to Ohio State and Engineering Physics,1.00
+ENGR 1100.10,"Introduction to Ohio State and Food, Agricultural, and Biological Engineering",1.00
+ENGR 1100.11,Introduction to Ohio State and Industrial and Systems Engineering,1.00
+ENGR 1100.12,Introduction to Ohio State and Materials Science and Welding Engineering,1.00
+ENGR 1100.13,Introduction to Ohio State and Mechanical Engineering,1.00
+ENGR 1100.15,Introduction to Ohio State and Engineering,1.00
+ENGR 1100.15H,Introduction to Ohio State and Engineering,1.00
+ENGR 1110.01,Introduction to Ohio State and Aeronautical and Astronautical Engineering I,0.50
+ENGR 1110.02,Introduction to Ohio State and Aviation I,0.50
+ENGR 1110.03,Introduction to Ohio State and Biomedical Engineering I,0.50
+ENGR 1110.04,Introduction to Ohio State and Chemical and Biomolecular Engineering I,0.50
+ENGR 1110.05,Introduction to Ohio State and Civil Engineering I,0.50
+ENGR 1110.06,Introduction to Ohio State and Computer Science and Engineering I,0.50
+ENGR 1110.07,Introduction to Ohio State and Electrical and Computer Engineering I,0.50
+ENGR 1110.08,Introduction to Ohio State and Engineering Physics I,0.50
+ENGR 1110.09,Introduction to Ohio State and Environmental Engineering I,0.50
+ENGR 1110.11,Introduction to Ohio State and Industrial and Systems Engineering I,0.50
+ENGR 1110.12,Introduction to Ohio State and Materials Science and Engineering I,0.50
+ENGR 1110.13,Introduction to Ohio State and Mechanical Engineering I,0.50
+ENGR 1110.14,Introduction to Ohio State and Welding Engineering I,0.50
+ENGR 1120.01,Introduction to Ohio State and Aeronautical and Astronautical Engineering II,0.50
+ENGR 1120.02,Introduction to Ohio State and Aviation II,0.50
+ENGR 1120.03,Introduction to Ohio State and Biomedical Engineering II,0.50
+ENGR 1120.04,Introduction to Ohio State and Chemical and Biomolecular Engineering II,0.50
+ENGR 1120.05,Introduction to Ohio State and Civil Engineering II,0.50
+ENGR 1120.06,Introduction to Ohio State and Computer Science and Engineering II,0.50
+ENGR 1120.07,Introduction to Ohio State and Electrical and Computer Engineering II,0.50
+ENGR 1120.08,Introduction to Ohio State and Engineering Physics II,0.50
+ENGR 1120.09,Introduction to Ohio State and Environmental Engineering II,0.50
+ENGR 1120.10,"Introduction to Ohio State and Food, Agricultural, and Biological Engineering II",0.50
+ENGR 1120.11,Introduction to Ohio State and Industrial and Systems Engineering II,0.50
+ENGR 1120.12,Introduction to Ohio State and Materials Science and Engineering II,0.50
+ENGR 1120.13,Introduction to Ohio State and Mechanical Engineering II,0.50
+ENGR 1120.14,Introduction to Ohio State and Welding Engineering II,0.50
+ENGR 1138,Fundamentals of Mathematics for Engineers,4.00
+ENGR 1180,Spatial Visualization Practice and Development,1.00
+ENGR 1181.01,Fundamentals of Engineering I,2.00
+ENGR 1181.02,Fundamentals of Engineering I - Scholars,2.00
+ENGR 1182.01,Fundamentals of Engineering II,2.00
+ENGR 1182.02,Fundamentals of Engineering II - Scholars,2.00
+ENGR 1182.04,Fundamentals of Engineering 2 - Engineering Technology,2.00
+ENGR 1186.01,Fundamentals of Engineering for Transfer - CAD,1.50
+ENGR 1187,Fundamentals of Engineering for Transfer - MATLAB,1.00
+ENGR 1188,Fundamentals of Engineering for Transfer - Problem Solving and Design,1.50
+ENGR 1194,Group Studies in Engineering,1.00 - 4.00
+ENGR 1194H,Group Studies in Engineering - Honors,1.00 - 4.00
+ENGR 1195,First-Year LEAP Seminar,1.00
+ENGR 1195.02,Second Year LEAP Seminar,1.00
+ENGR 1196,Minority Engineering Program Seminar,1.00
+ENGR 1197.01,Green Engineering Scholars Seminar,1.00
+ENGR 1197.02,Humanitarian Engineering Scholars Seminar,1.00
+ENGR 1221,Introduction to Computer Programming in MATLAB for Engineers and Scientists,2.00
+ENGR 1259,Fundamentals of Academic Success for Engineering Students,3.00
+ENGR 1281.01H,Fundamentals of Engineering for Honors I,5.00
+ENGR 1281.02H,Fundamentals of Engineering for Honors I - Advanced Programming,5.00
+ENGR 1282.01H,Fundamentals of Engineering for Honors II - Robotics,3.00
+ENGR 1282.02H,Fundamentals of Engineering for Honors II - Nanotechnology,3.00
+ENGR 1282.04H,Fundamentals of Engineering for Honors 2 - Integrated Business & Engineering,3.00
+ENGR 1300,Introduction to Writing for STEM,3.00
+ENGR 1510,Metacognitive Engineering Problem Solving Strategies,1.00
+ENGR 2193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 2194,Group Studies in Engineering,1.00 - 4.00
+ENGR 2194H,Group Studies in Engineering,1.00 - 4.00
+ENGR 2230,Mentorship in Robotics,1.00
+ENGR 2231,FIRST Robotics Mentorship,1.00 - 3.00
+ENGR 2300,Citizenship in Engineering Contexts,3.00
+ENGR 2301,Exploring Citizenship in Engineering: Integrative Designation,4.00
+ENGR 2367,American Attitudes About Technology,3.00
+ENGR 2367.01H,Honors American Attitudes About Technology,3.00
+ENGR 2797.01,Engineering Study Abroad in North America,0.50 - 12.00
+ENGR 2797.02,Engineering Study Abroad in Central America,0.50 - 12.00
+ENGR 2797.03,Engineering Study Abroad in South America,0.50 - 12.00
+ENGR 2797.04,Engineering Study Abroad in East Asia,0.50 - 12.00
+ENGR 2797.05,Engineering Study Abroad in South Asia,0.50 - 12.00
+ENGR 2797.06,Engineering Study Abroad in Central Asia,0.50 - 12.00
+ENGR 2797.07,Engineering Study Abroad in Oceania,0.50 - 12.00
+ENGR 2797.08,Engineering Study Abroad in Middle East,0.50 - 12.00
+ENGR 2797.09,Engineering Study Abroad in Africa,0.50 - 12.00
+ENGR 2797.10,Engineering Study Abroad in Europe,0.50 - 12.00
+ENGR 2797.11S,"Service Learning Trip to Montana de Luz, Honduras",3.00
+ENGR 3194,Group Studies in Engineering,1.00 - 4.00
+ENGR 4191,Professional Practice in Engineering,0.00
+ENGR 4193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 4194,Group Studies in Engineering,1.00 - 4.00
+ENGR 4194H,Group Studies in Engineering Honors,1.00 - 4.00
+ENGR 4375,Inclusive Leadership Practice for Emerging Professionals,1.00
+ENGR 4692.01S,Service Learning in Engineering,1.00 - 3.00
+ENGR 4692.02S,Engineering Service Learning Ghana Preparation,3.00
+ENGR 4850S,Translating Engineering Research to K-8 (TEK8),3.00
+ENGR 4891,"Colloquia, Workshops, and College Seminars",1.00 - 4.00
+ENGR 4891.01,College Seminar - Perspectives on Sustainability,1.00
+ENGR 4891.02,College Seminar - Promoting Creativity and Innovation,2.00
+ENGR 4910,Tools for Engineering Career Success,1.00
+ENGR 4998.01,Undergraduate Research in Engineering Education,1.00 - 4.00
+ENGR 4998.02,Undergraduate Research in Engineering,1.00 - 4.00
+ENGR 4999H,Engineering Education Research for Thesis,1.00 - 5.00
+ENGR 5081.01,Engineering Capstone Collaboration I,3.00
+ENGR 5081.02,Engineering Capstone Collaboration II,3.00
+ENGR 5194,Group Studies in Engineering,1.00 - 4.00
+ENGR 5680,Leading in Engineering Organizations,1.50
+ENGR 5695,Engineering Teamwork Seminar,1.00
+ENGR 5797.01,Engineering Study Abroad in North America,0.50 - 12.00
+ENGR 5797.02,Engineering Study Abroad in Central America,0.50 - 12.00
+ENGR 5797.03,Engineering Study Abroad in South America,0.50 - 12.00
+ENGR 5797.04,Engineering Study Abroad in East Asia,0.50 - 12.00
+ENGR 5797.05,Engineering Study Abroad in South Asia,0.50 - 12.00
+ENGR 5797.06,Engineering Study Abroad in Central Asia,0.50 - 12.00
+ENGR 5797.07,Engineering Study Abroad in Oceania,0.50 - 12.00
+ENGR 5797.08,Engineering Study Abroad in Middle East,0.50 - 12.00
+ENGR 5797.09,Engineering Study Abroad in Africa,0.50 - 12.00
+ENGR 5797.10,Engineering Study Abroad in Europe,0.50 - 12.00
+ENGR 5797.11S,Engineering Service-Learning in Honduras,3.00
+ENGR 5797.12,Exploring Culture and Engineering in India,3.00
+ENGR 5797.13,Engineering the Castles and Cathedrals of England and Wales,3.00
+ENGR 5797.14,OSU - Colombia Collaboration,3.00
+ENGR 5797.15,Korea Aerospace University International Summer Program,3.00
+ENGR 5797.16S,Solar Engineering Service-Learning,3.00
+ENGR 5797.17S,Engineering Service-Learning Ghana In Country,4.00
+ENGR 5797.18,Engineering of Ancient Greece,3.00
+ENGR 5797.19,Design Principles and Biomedical Research at Nanjing University,3.00
+ENGR 5797.20,Sustainable and Resilient Infrastructure in Italy,3.00
+ENGR 5797.21S,Sustainable and Resilient Tanzanian Communities - Engineering,1.00 - 3.00
+ENGR 5797.22S,Guatemala Service-Learning,3.00
+ENGR 5797.23,Humanitarian Engineering and Culture in Guyana,3.00
+ENGR 5797.24,Sustainable Community Development - Honduras,3.00
+ENGR 5797.25,International Perspectives on Aviation,3.00
+ENGR 5797.26,Japanese American Design Experience (JADE),3.00
+ENGR 5901.01,Multidisciplinary Engineering Capstone Design Project I,3.00
+ENGR 5901.02H,Multidisciplinary Engineering Capstone Design Project 1 - Honors IBE,3.00
+ENGR 5902.01,Multidisciplinary Engineering Capstone Design Project II,3.00
+ENGR 5902.02H,Multidisciplinary Engineering Capstone Design Project II - Honors IBE,3.00
+ENGR 6000,ENG Graduate Professional Development,1.00
+ENGR 6193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 6194,Group Studies in Engineering,1.00 - 4.00
+ENGR 6210,Leadership and Team Effectiveness for Engineers,3.00
+ENGR 6220,Financial and Managerial Accounting for Engineers,3.00
+ENGR 6230,Technology Strategy & Innovation for Engineers,3.00
+ENGR 6240,Operational Excellence Master of Engineering Management Capstone,3.00
+ENGR 6850S,Translating Engineering Research to K-8 (TEK8),3.00
+ENGR 6892.01,Studies in Engineering for In-Service Teachers,1.00
+ENGR 7100,MGEL Integrative Project,1.00 - 5.00
+ENGR 7193,Individual Studies in Engineering,1.00 - 4.00
+ENGR 7194,Group Studies in Engineering,1.00 - 4.00
+ENGR 7200,Engineering Ethics and Professionalism,1.00
+ENGR 7710,Engineering Research Communications,3.00
+ENGR 7881,Interdepartmental Seminar,1.00 - 4.00
+ENGR 7891,"Colloquia, Workshops, and Seminars",1.00 - 4.00
+ENGR 8194,Group Studies in Engineering,1.00 - 4.00
+ENGR 8998,Research in Engineering Education,1.00 - 10.00
+ENGR 8999,Research in Engineering Education for Dissertation,1.00 - 10.00
+ENGREDU 4999,Undergraduate Thesis Research in Engineering Education,1.00 - 5.00
+ENGREDU 4999H,Undergraduate Honors Thesis Research in Engineering Education,1.00 - 5.00
+ENGREDU 6100,Foundations and the Field of Engineering Education,3.00
+ENGREDU 6194,Group Studies in Engineering Education,1.00 - 4.00
+ENGREDU 6200,"Learning Theory, Pedagogy, and Assessment in Engineering Education",3.00
+ENGREDU 7189.01,Teaching Preparation and Support,2.00
+ENGREDU 7189.02,Professional Development in College Teaching,1.00
+ENGREDU 7193,Individual Studies in Engineering Education,1.00 - 4.00
+ENGREDU 7194,Group Studies in Engineering Education,1.00 - 4.00
+ENGREDU 7780,Research Design in Engineering Education,3.00
+ENGREDU 7881,Seminar in Engineering Education,1.00
+ENGREDU 7900,Career Exploration and Professional Development,3.00
+ENGREDU 8998,Research in Engineering Education,1.00 - 5.00
+ENGREDU 8999,Research in Engineering Education for Dissertation,1.00 - 18.00
+ENGRTEC 1200,Introduction to Engineering Technology,1.00
+ENGRTEC 1500,Manufacturing Processes I,3.00
+ENGRTEC 1600,Engineering Graphics,3.00
+ENGRTEC 2100,Introduction to Robotics with Vision,2.00
+ENGRTEC 2300,Electrical Circuits for Engineering Technology,3.00
+ENGRTEC 2500,Manufacturing Processes II,2.00
+ENGRTEC 3100,Material Science with Engineering Technology Applications,0.50
+ENGRTEC 3600,"Technology, Structure and Applications for Controls",3.00
+ENGRTEC 3700,Mechanical Processes,3.00
+ENGRTEC 3800,Project Management for Engineering Technology,3.00
+ENGRTEC 3900,Industrial Automation PLC1,3.00
+ENGRTEC 4191.01,Professional Development Internship in Eng Tech I,1.00
+ENGRTEC 4191.02,Professional Development Internship in Eng Tech II,2.00
+ENGRTEC 4200,Industrial Automation - PLC2,3.00
+ENGRTEC 4250,Lean Six Sigma Foundations,3.00
+ENGRTEC 4300,Facility Layout and Integration,3.00
+ENGRTEC 4400,Leadership and Change Management,3.00
+ENGRTEC 4500,Intelligent Manufacturing and Automation,3.00
+ENGRTEC 4600,Power and Drives,3.00
+ENGRTEC 4700,"Networks, Security, & Safety Applications",3.00
+ENGRTEC 4900,ENGRTEC Capstone I,3.00
+ENGRTEC 4910,ENGRTEC Capstone II,3.00

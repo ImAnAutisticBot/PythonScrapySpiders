@@ -1,0 +1,162 @@
+Course_Number,Course_Title,Credit_Hours
+CIVILEN 2001,Introduction to Infrastructure,3.00
+CIVILEN 2050,Probabilistic Applications and Data Interpretation in Civil and Environmental Engineering,3.00
+CIVILEN 2060,Numerical Analysis Methods for Civil and Environmental Engineering Applications,4.00
+CIVILEN 2090,Professional Aspects of Civil and Environmental Engineering,1.00
+CIVILEN 2193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 2194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 2405,Computer Graphics for Civil Engineers,1.00
+CIVILEN 2410,Introduction to Surveying,3.00
+CIVILEN 2810,Construction Engineering and Management: An Introduction,3.00
+CIVILEN 3080,Economic Evaluation and Optimization in Civil and Environmental Engineering,3.00
+CIVILEN 3130,Fluid Mechanics,3.00
+CIVILEN 3160,Water Resources Engineering,3.00
+CIVILEN 3310,Structural Engineering Principles,3.00
+CIVILEN 3510,Civil Engineering Materials,3.00
+CIVILEN 3540,Geotechnical Engineering,2.00
+CIVILEN 3541,Geotechnical Engineering Laboratory,1.00
+CIVILEN 3700,Transportation Engineering and Analysis,3.00
+CIVILEN 4001,Civil Engineering Capstone I,2.00
+CIVILEN 4002,Civil Engineering Capstone II,2.00
+CIVILEN 4011,Civil Engineering Global Capstone I,2.00
+CIVILEN 4012,Civil Engineering Global Capstone II,2.00
+CIVILEN 4191.01,Civil Engineering Internship I,1.00
+CIVILEN 4191.02,Civil Engineering Internship II,2.00
+CIVILEN 4193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 4194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 4210,The Physics of Sustainable Buildings,3.00
+CIVILEN 4310,Structural Analysis,3.00
+CIVILEN 4320,Structural Steel Design,3.00
+CIVILEN 4340,Behavior of Structural Element,3.00
+CIVILEN 4350,Reinforced Concrete Design,3.00
+CIVILEN 4552,Design and Construction of Flexible Pavements,3.00
+CIVILEN 4800,Project Management in Civil Engineering,3.00
+CIVILEN 4998,Undergraduate Research in Civil Engineering,1.00 - 5.00
+CIVILEN 4998H,Undergraduate Research in Civil Engineering,1.00 - 5.00
+CIVILEN 4999,Civil Engineering Research for Thesis,1.00 - 5.00
+CIVILEN 4999H,Civil Engineering Research for Thesis,1.00 - 5.00
+CIVILEN 5130,Applied Hydrology,3.00
+CIVILEN 5162,Introduction to Laminated Composite Materials,3.00
+CIVILEN 5168,Introduction to the Finite Element Method,3.00
+CIVILEN 5194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 5220,Open Channel Hydraulics,3.00
+CIVILEN 5230,Transport Phenomena in Water Resources Engineering,3.00
+CIVILEN 5240,Groundwater Engineering,3.00
+CIVILEN 5300,"Airport Planning, Design, and Development",3.00
+CIVILEN 5310,Matrix Structural Analysis,3.00
+CIVILEN 5320,Intermediate Structural Steel Design,3.00
+CIVILEN 5350,Intermediate Reinforced Concrete Design,3.00
+CIVILEN 5360,Bridge Engineering,3.00
+CIVILEN 5370,Prestressed Concrete Design,3.00
+CIVILEN 5390,Knowledge-Based Systems in Engineering,2.00
+CIVILEN 5400,Introduction to Geographic Information Systems,4.00
+CIVILEN 5410,Engineering Surveying,3.00
+CIVILEN 5411,Legal Surveying,3.00
+CIVILEN 5412,Land Boundary & Development Principles,3.00
+CIVILEN 5420,Remote Sensing of Environment,3.00
+CIVILEN 5421,Spatial Analysis Techniques for Civil Engineering,3.00
+CIVILEN 5422,Terrain Analysis,3.00
+CIVILEN 5441,Introduction to GPS: Theory and Applications,3.00
+CIVILEN 5461,Geospatial Numerical Analysis,4.00
+CIVILEN 5510,Durability and Condition Assessment of Reinforced Concrete Structures,3.00
+CIVILEN 5561,"Rock Mechanics, Slope Stability and Retaining Structures",3.00
+CIVILEN 5571,Principles of Foundation Analysis and Design,3.00
+CIVILEN 5581,Numerical Methods in Geotechnical Engineering,3.00
+CIVILEN 5610.01,Sustainable WaSH Infrastructure for Developing Rural Communities,3.00
+CIVILEN 5610.02,Safe Water on Tap,3.00
+CIVILEN 5700,Urban Transportation Demand Forecasting,3.00
+CIVILEN 5720,Transportation Engineering Data Collection Studies,3.00
+CIVILEN 5730,Highway Location and Design,3.00
+CIVILEN 5740,Design and Operation of Road Traffic Facilities,3.00
+CIVILEN 5750,"Instrumentation, Signals, and Control in Transportation Applications",3.00
+CIVILEN 5760,Network Metrics and Control in Transportation Systems,3.00
+CIVILEN 5770,Urban Public Transportation,3.00
+CIVILEN 5780,Seminar in Transportation Engineering and Planning,1.00
+CIVILEN 5810,Construction Safety and Forensics,3.00
+CIVILEN 5820,Construction Estimating,3.00
+CIVILEN 5830,Construction Scheduling,3.00
+CIVILEN 5840,Construction Contracts and Claims,3.00
+CIVILEN 6002,Structural Design Studio II,3.00
+CIVILEN 6193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 6194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 6210,The Physics of Sustainable Buildings,3.00
+CIVILEN 6211,Simulation of Building Energy Performance,3.00
+CIVILEN 6230,Numerical Models in Water Resources Engineering,3.00
+CIVILEN 6300,Dynamics of Structures,3.00
+CIVILEN 6435,Global Navigation Satellite Systems (GNSS) Data Processing,3.00
+CIVILEN 6451,Introduction to Photogrammetry,3.00
+CIVILEN 6510,Advanced Concrete Materials,3.00
+CIVILEN 6880,Civil Engineering Graduate Seminar,1.00
+CIVILEN 6999,Civil Engineering Research for Thesis,1.00 - 15.00
+CIVILEN 7320,Structural Reliability,3.00
+CIVILEN 7330,Earthquake Engineering,3.00
+CIVILEN 7350,Advanced Reinforced Concrete,3.00
+CIVILEN 7421,Advanced Machine Learning for Remote Sensing Image Interpretation,3.00
+CIVILEN 7432,Advanced Spatial Databases,4.00
+CIVILEN 7442,Fundamentals of GPS and Reference Systems,4.00
+CIVILEN 7452,Spatial Geometry and Spectral Analysis,4.00
+CIVILEN 7453,Photogrammetric Computer Vision,3.00
+CIVILEN 7730,Transportation Demand Modeling,4.00
+CIVILEN 7740,Urban Transportation Network Analysis,4.00
+CIVILEN 7760,Transportation Management Systems,3.00
+CIVILEN 7770,Infrastructure Systems Analysis,3.00
+CIVILEN 7780,Graduate Student Seminar in Transportation Engineering and Planning,1.00
+CIVILEN 7790,Transportation Practicum,4.00
+CIVILEN 8193,Individual Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 8194,Group Studies in Civil Engineering,1.00 - 5.00
+CIVILEN 8443,Advanced Topics in GPS,3.00
+CIVILEN 8454,Videogrammetry,3.00
+CIVILEN 8462,Advanced Geospatial Sensors and Methods,4.00
+CIVILEN 8810,Construction Intelligent System and Simulation I,3.00
+CIVILEN 8820,Construction Intelligent System and Simulation II,3.00
+CIVILEN 8998,Graduate Research in Civil Engineering,1.00 - 15.00
+CIVILEN 8999,Civil Engineering Research for Dissertation,1.00 - 15.00
+ENVENG 2100,Environmental Engineering Analytical Methods,3.00
+ENVENG 2193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 2194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 3200,Fundamentals of Environmental Engineering,3.00
+ENVENG 3210,Environmental Engineering Unit Operations,3.00
+ENVENG 3600,Technology Innovation for Sustainability,4.00
+ENVENG 4090,Environmental Engineering Capstone Design,3.00
+ENVENG 4193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 4194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 4200,Environmental Engineering Unit Operations Lab,1.00
+ENVENG 4218,Measurement and Modeling of Climate Change,3.00
+ENVENG 4400,Integrated Environmental Chemical Fate and Transport,3.00
+ENVENG 4600,Assessment for Human Rights and Sustainability,3.00
+ENVENG 4998,Undergraduate Research in Environmental Engineering,1.00 - 5.00
+ENVENG 4998H,Undergraduate Research in Environmental Engineering,1.00 - 5.00
+ENVENG 4999,Environmental Engineering Research for Thesis,1.00 - 5.00
+ENVENG 4999H,Environmental Engineering Research for Thesis,1.00 - 5.00
+ENVENG 5110,Environmental Engineering Bioprocesses,3.00
+ENVENG 5120,Bioremediation of Groundwater and Soil,3.00
+ENVENG 5140,Air Quality Engineering,3.00
+ENVENG 5170,Sustainability and the Circular Economy,3.00
+ENVENG 5194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 5195,Engineering Design for Environmental Health,3.00
+ENVENG 5210,Advanced Physical Chemical Treatment Processes,3.00
+ENVENG 5217,Applied Mathematical Ecology,3.00
+ENVENG 5410,Hazardous Waste Management and Remediation,2.00
+ENVENG 5600,"Science, Engineering, and Public Policy",3.00
+ENVENG 5718,Aquatic Chemistry,3.00
+ENVENG 5719,Environmental Organic Chemistry,3.00
+ENVENG 5760,Design of Urban Stormwater Control Measures,3.00
+ENVENG 5850,Advanced Topics in Environmental Engineering,1.00 - 3.00
+ENVENG 5880,Environmental Engineering Seminar,1.00
+ENVENG 6020,Foundations of Data-Driven Sustainable Energy Systems,3.00
+ENVENG 6100,Environmental Engineering Analytical Methods,3.00
+ENVENG 6193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 6194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 6200,Fundamentals of Environmental Engineering,3.00
+ENVENG 6210,Environmental Engineering Unit Operations,3.00
+ENVENG 6218,Measurement and Modeling of Climate Change for Graduate Students,3.00
+ENVENG 6220,Data Analysis in Environmental Engineering,3.00
+ENVENG 6400,Integrated Environmental Chemical Fate and Transport for Graduate Students,3.00
+ENVENG 6600,Assessment for Human Rights and Sustainability,3.00
+ENVENG 6610,"Analytic Frameworks for Analysis of Science, Engineering, and Policy",3.00
+ENVENG 6999,Environmental Engineering Research Thesis,1.00 - 15.00
+ENVENG 7220,Colloidal and Interfacial Processes in Aquatic Systems,3.00
+ENVENG 8193,Individual Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 8194,Group Studies in Environmental Engineering,1.00 - 5.00
+ENVENG 8998,Graduate Research in Environmental Engineering,1.00 - 15.00
+ENVENG 8999,Environmental Engineering Research Dissertation,1.00 - 15.00

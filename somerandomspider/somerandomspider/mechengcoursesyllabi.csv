@@ -1,0 +1,184 @@
+Course_Number,Course_Title,Credit_Hours
+MECHENG 2010,Statics,2.00
+MECHENG 2010H,Statics,2.00
+MECHENG 2020,Introduction to Mechanics of Materials,3.00
+MECHENG 2030,Dynamics,3.00
+MECHENG 2040,Statics and Introduction to Mechanics of Materials,4.00
+MECHENG 2193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2194H,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 2850.01,Numerical Methods in Mechanical Engineering,3.00
+MECHENG 2850.02,Numerical Methods in Mechanical Engineering,3.00
+MECHENG 2900,Introduction to Design in Mechanical Engineering,3.00
+MECHENG 3260,System Dynamics and Vibrations,3.00
+MECHENG 3360,System Integration and Control,3.00
+MECHENG 3500,Engineering Thermal Sciences,3.00
+MECHENG 3501,Introduction to Engineering Thermodynamics,3.00
+MECHENG 3503,Introduction to Fluid Mechanics,3.00
+MECHENG 3670,Design and Analysis of Machine Elements I,2.00
+MECHENG 3671,Design and Analysis of Machine Elements II,3.00
+MECHENG 3751,Kinematics and Mechanism Design,2.00
+MECHENG 3870,Introduction to Measurements and Data Analysis in Mechanical Engineering,3.00
+MECHENG 4193.01,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4193.02,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4194H,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 4505,Introduction to Nuclear Science and Engineering,3.00
+MECHENG 4510,Heat Transfer,3.00
+MECHENG 4536,Nuclear Reactor Systems,3.00
+MECHENG 4870,Multidisciplinary Mechanical Engineering Laboratory,2.00
+MECHENG 4901.01,ME Capstone Design I: General Projects,2.50
+MECHENG 4902.01,ME Capstone Design I: Student Design Competitions,2.50
+MECHENG 4902.02,ME Capstone Design II: Student Design Competitions,2.50
+MECHENG 4903.01,ME Capstone Design I: Industry Projects,2.50
+MECHENG 4903.02,ME Capstone Design II: Industry Projects,2.50
+MECHENG 4904.01,ME Capstone Design I: Humanitarian Projects,2.50
+MECHENG 4904.02,ME Capstone Design II: Humanitarian Projects,2.50
+MECHENG 4905.01,ME Capstone Design I: Assistive Devices,2.50
+MECHENG 4905.02,ME Capstone Design II: Assistive Devices,2.50
+MECHENG 4906.01,ME Capstone Design I: Product Design Capstone,2.50
+MECHENG 4906.02,ME Capstone Design II: Product Design Capstone,2.50
+MECHENG 4998,Undergraduate Research in Mechanical Engineering,1.00 - 2.00
+MECHENG 4998H,Undergraduate Research in Mechanical Engineering,1.00 - 2.00
+MECHENG 4999,Mechanical Engineering Undergraduate Research for Thesis,1.00 - 3.00
+MECHENG 4999H,Mechanical Engineering Undergraduate Research for Thesis,1.00 - 3.00
+MECHENG 5003,Nuclear Reactor Systems and Analysis,3.00
+MECHENG 5030,Intermediate Dynamics,3.00
+MECHENG 5134,Introduction to Vibrations of Deformable Solids,3.00
+MECHENG 5139,Applied Finite Element Method,3.00
+MECHENG 5144,Engineering Fracture Mechanics,3.00
+MECHENG 5162,Introduction to Laminated Composite Materials,3.00
+MECHENG 5180,Mechanics of Biomolecular Systems,3.00
+MECHENG 5194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 5234,Vehicle Dynamics,4.00
+MECHENG 5240,Mechanical Vibrations,3.00
+MECHENG 5241,Engineering Acoustics,3.00
+MECHENG 5339,Simulation Techniques for Dynamic Systems,3.00
+MECHENG 5372,Theory and Applications of Feedback Control,3.00
+MECHENG 5374,Smart Materials and Intelligent Systems,3.00
+MECHENG 5427,Introduction to Turbomachinery,3.00
+MECHENG 5463,Introduction to Real Time Robotics Systems,3.00
+MECHENG 5502,Engineering Thermodynamics,3.00
+MECHENG 5530,Internal Combustion Engines,3.00
+MECHENG 5531,Automotive Powertrain Laboratory,3.00
+MECHENG 5535,Advanced Topics in Solar Energy Systems,3.00
+MECHENG 5539,Applied Computational Fluid Dynamics and Heat Transfer,3.00
+MECHENG 5541,"Heating, Ventilating, and Air Conditioning",3.00
+MECHENG 5550,Engineering Principles in Cancer,3.00
+MECHENG 5600,Applied Project Management in Product Development Team Environments,3.00
+MECHENG 5670,Advanced MCAD modeling with CATIA,3.00
+MECHENG 5680,Computer Aided Design and Manufacturing,4.00
+MECHENG 5682.01,Fundamentals of Product Design Engineering,3.00
+MECHENG 5682.02,Product Design Engineering for Entrepreneurs,3.00
+MECHENG 5700,Introduction to Musculoskeletal Biomechanics,3.00
+MECHENG 5751,Design and Manufacturing of Compliant Mechanisms and Robots,3.00
+MECHENG 5775,Applied Machine Learning for MAE and Robotics,3.00
+MECHENG 5797,Study at a Foreign Institution,1.00 - 10.00
+MECHENG 6193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6193.01,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 6359,Extracellular Matrix in Bioengineering,3.00
+MECHENG 6501,Gas Dynamics,3.00
+MECHENG 6505,Intermediate Fluid Dynamics,3.00
+MECHENG 6507,Intermediate Numerical Methods,3.00
+MECHENG 6510,Intermediate Heat Transfer,3.00
+MECHENG 6515,Introduction to Microfluidics and Nanofluidics,3.00
+MECHENG 6526,Combustion,3.00
+MECHENG 6537,Nuclear Reactor Thermal Hydraulics,3.00
+MECHENG 6661,Advanced CAE Simulation for Structural Design,4.00
+MECHENG 6665,Reliability Engineering I,3.00
+MECHENG 6700,Musculoskeletal Biomechanics,3.00
+MECHENG 6711,Microscopy in Biomechanics,3.00
+MECHENG 6716,Probabilistic Reliability and Safety Assessment,3.00
+MECHENG 7100,Introduction to Continuum Mechanics,3.00
+MECHENG 7101,Constitutive Models in Continuum Mechanics,4.00
+MECHENG 7163,Advanced Strength of Materials and Elasticity Theory,4.00
+MECHENG 7194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 7230,Advanced Dynamics,4.00
+MECHENG 7236,Powertrain Dynamics,3.00
+MECHENG 7250,Vibration of Discrete Systems,3.00
+MECHENG 7255,Turbomachinery Dynamics,3.00
+MECHENG 7259,Sliding Mode Control in Electromechanical Systems,3.00
+MECHENG 7260,Automotive Noise and Vibration Control  I,3.00
+MECHENG 7262,Automotive Noise and Vibration Control II,3.00
+MECHENG 7263,Automotive Noise and Vibration Control II with Lab,4.00
+MECHENG 7290,Digital Control Engineering,3.00
+MECHENG 7292,Control System Labs,2.00
+MECHENG 7372,Fault Diagnosis in Dynamic Systems,3.00
+MECHENG 7374,Polymer Smart Materials and Material Systems - Advanced Modeling and Characterization,3.00
+MECHENG 7380,Lumped Parameter Modeling and System Analysis,3.00
+MECHENG 7383,Electrochemical Energy Conversion and Storage Systems for Automotive Applications,3.00
+MECHENG 7384,"Energy Modeling, Optimization, and Control of Hybrid Vehicles",3.00
+MECHENG 7385,Advanced Methods in the Dynamics and Control of Human and Animal Movement,3.00
+MECHENG 7440,Internal Combustion Engine Modeling,3.00
+MECHENG 7510,Advanced Heat Transfer,3.00
+MECHENG 7511,Computational Fluid Dynamics,3.00
+MECHENG 7513,Turbulence,3.00
+MECHENG 7520,Wave Dynamics in Fluids,3.00
+MECHENG 7526,Advanced Combustion,3.00
+MECHENG 7527,Jet Propulsion,3.00
+MECHENG 7751,Advanced Kinematics and Mechanisms,3.00
+MECHENG 7752,Mechanics and Control of Robots,3.00
+MECHENG 7760,"Form Synthesis, Assembly, and Applied Stress Analysis",3.00
+MECHENG 7761,Optimum Design of Machines and Structures,3.00
+MECHENG 7765,Principles and Applications of Tribology,3.00
+MECHENG 8038,Advanced Topics in Finite Element Method,3.00
+MECHENG 8193,Individual Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 8194,Group Studies in Mechanical Engineering,1.00 - 5.00
+MECHENG 8220,Continuous Time Optimal Control,3.00
+MECHENG 8230,Nonlinear Dynamics,3.00
+MECHENG 8250,Vibration of Continuous Systems,3.00
+MECHENG 8322,Vehicle System Dynamics and Control,3.00
+MECHENG 8352,Robust Control of Mechatronic Systems,3.00
+MECHENG 8503,Statistical Thermodynamics,3.00
+MECHENG 8504,Physical Gas Dynamics,3.00
+MECHENG 8514,Optical Techniques in Fluid Flows,3.00
+MECHENG 8518,Advanced Mathematical Methods in Engineering,3.00
+MECHENG 8527,Advanced Propulsion Problems,3.00
+MECHENG 8603,"Irreversible Thermodynamics and Transport of Charge, Heat, and Spin",3.00
+MECHENG 8702,Neuromuscular Biomechanics,3.00
+MECHENG 8717,Dynamic Probabilistic Risk Assessment,3.00
+MECHENG 8777,Risk and Reliability for Digital Instrumentation and Control Systems,3.00
+MECHENG 8888,Mechanical Engineering Graduate Seminar,1.00
+MECHENG 8901,Future Academic Scholars Training I for MAE,2.00
+MECHENG 8902,Future Academic Scholars Training II for MAE,2.00
+MECHENG 8998,Graduate Research in Mechanical Engineering,1.00 - 16.00
+MECHENG 8999,Mechanical Engineering Research for Dissertation,1.00 - 16.00
+NUCLREN 2194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 2500,Nuclear Sciences and Engineering at The Ohio State University,1.00
+NUCLREN 4193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4193H,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4194H,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 4505,Introduction to Nuclear Science and Engineering,3.00
+NUCLREN 4506,Undergraduate Nuclear Engineering Laboratory,3.00
+NUCLREN 4536,Nuclear Reactor Systems,3.00
+NUCLREN 4701,Introduction to Nuclear Power Engineering,3.00
+NUCLREN 4998,Undergraduate Research in Nuclear Engineering,1.00 - 6.00
+NUCLREN 4998H,Undergraduate Research in Nuclear Engineering,1.00 - 6.00
+NUCLREN 5001,Interactions of Radiation with Matter,3.00
+NUCLREN 5002,Reactor Physics,3.00
+NUCLREN 5003,Nuclear Reactor Systems and Analysis,3.00
+NUCLREN 5004,Materials in Nuclear Systems,3.00
+NUCLREN 5606,Radiation Protection and Shielding,3.00
+NUCLREN 5610,Reactor Safety,3.00
+NUCLREN 5735,Nuclear Power Plant Operations,3.00
+NUCLREN 5742,"Nuclear Instrumentation, Radiation Sensor and Detection",3.00
+NUCLREN 5776,Nuclear Fuel Cycle and Radioactive Waste Management,3.00
+NUCLREN 6193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 6194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 6507,Intermediate Numerical Methods,3.00
+NUCLREN 6537,Nuclear Reactor Thermal Hydraulics,3.00
+NUCLREN 6716,Probabilistic Reliability and Safety Assessment,3.00
+NUCLREN 6725,Nuclear Reactor Dynamics,2.00
+NUCLREN 6726,Reactor Dynamics Laboratory,2.00
+NUCLREN 6750,Nuclear Materials and Irradiation Effects in Materials,2.00
+NUCLREN 6766,Nuclear Engineering Design,2.00
+NUCLREN 6881,Nuclear Engineering Seminar,1.00
+NUCLREN 7865,Neutron Slowing Down and Thermalization,3.00
+NUCLREN 8193,Individual Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 8194,Group Studies in Nuclear Engineering,1.00 - 4.00
+NUCLREN 8717,Dynamic Probablistic Risk Assessment,3.00
+NUCLREN 8777,Risk and Reliability for Digital Instrumentation and Control Systems,3.00
+NUCLREN 8998,Graduate Research in Nuclear Engineering,1.00 - 12.00
+NUCLREN 8999,Nuclear Engineering Research for Dissertation,1.00 - 15.00

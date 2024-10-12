@@ -6,7 +6,7 @@
 import scrapy
 
 
-class CSECourseItem(scrapy.Item):
+class CourseItem(scrapy.Item):
     Course_Number = scrapy.Field()
     Course_Title = scrapy.Field()
     Credit_Hours = scrapy.Field()
