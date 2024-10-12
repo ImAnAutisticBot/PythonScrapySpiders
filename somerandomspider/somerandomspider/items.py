@@ -21,5 +21,5 @@ class FacultyItem(scrapy.Item):
 
 class LeedcodeItem(scrapy.Item):
     Title = scrapy.Field()
-    Acceptance = scrapy.Field(
+    Acceptance = scrapy.Field()
     Difficulty = scrapy.Field()
