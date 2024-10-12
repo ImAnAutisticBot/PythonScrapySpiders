@@ -13,8 +13,8 @@ class FacultySpider(scrapy.Spider):
         for person in response.xpath('//div[@class="directory-wrapper directory-items"]/article'):
             yield {
                 'Name': person.xpath('.//h2[@class="directory-grid-name"]/text()').get().strip() if person.xpath('.//h2[@class="directory-grid-name"]/text()').get() else None,
-                'Appointment': person.xpath('.//div[@class="appointment-name"]/text()').get().strip() if person.xpath('.//div[@class="appointment-name"]/text()').get() else None,
-                'Category': person.xpath('.//div[@class="directory-category"]/text()').get().strip() if person.xpath('.//div[@class="directory-category"]/text()').get() else None,
+                'Appointment': ', '.join(person.xpath('.//div[@class="appointment-name"]/text()').getall()).strip() if person.xpath('.//div[@class="appointment-name"]/text()').getall() else None,
+                'Category': ', '.join(person.xpath('.//div[@class="directory-category"]/text()').getall()).strip() if person.xpath('.//div[@class="directory-category"]/text()').getall() else None,
                 'Phone': person.xpath('.//div[@class="directory-grid-phone"]/text()').get().strip() if person.xpath('.//div[@class="directory-grid-phone"]/text()').get() else None,
                 'Email': person.xpath('.//div[@class="directory-grid-email"]//text()').get().strip() if person.xpath('.//div[@class="directory-grid-email"]//text()').get() else None,
                 'Address': person.xpath('.//div[@class="directory-grid-address"]/text()').get().strip() if person.xpath('.//div[@class="directory-grid-address"]/text()').get() else None,
