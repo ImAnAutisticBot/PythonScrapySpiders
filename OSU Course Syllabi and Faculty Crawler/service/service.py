@@ -3,27 +3,29 @@ import sqlite3
 
 app = Flask(__name__)
 
-def connect_db():
-    conn = sqlite3.connect('syllabi.db')
+def connect_syllabi_db(db_name):
+    conn = sqlite3.connect(db_name)
+    conn.row_factory = sqlite3.Row
+    return conn
+
+def connect_faculty_db():
+    conn = sqlite3.connect('faculty.db')
     conn.row_factory = sqlite3.Row
     return conn
 
 @app.route('/<tablename>/', methods=['GET'])
 def get_all_from_table(tablename):
-    conn = connect_db()
+    conn = connect_syllabi_db('syllabi.db')
     cursor = conn.cursor()
 
-    # 验证表是否存在
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name=?", (tablename,))
     if not cursor.fetchone():
         conn.close()
         return jsonify({"error": "Table not found"}), 404
 
-    # 查询表中的所有数据
     cursor.execute(f"SELECT * FROM {tablename}")
     rows = cursor.fetchall()
 
-    # 将数据转换为 JSON 格式返回
     table_data = [dict(row) for row in rows]
     conn.close()
 
@@ -31,28 +33,57 @@ def get_all_from_table(tablename):
 
 @app.route('/<tablename>/<identifier>', methods=['GET'])
 def get_by_id(tablename, identifier):
-    conn = connect_db()
+    conn = connect_syllabi_db('syllabi.db')
     cursor = conn.cursor()
 
-    # 验证表是否存在
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name=?", (tablename,))
     if not cursor.fetchone():
         conn.close()
         return jsonify({"error": "Table not found"}), 404
 
-    # 根据 identifier 查询匹配的行
-    cursor.execute(f"SELECT * FROM {tablename} WHERE course_id = ?", (identifier,))
+    # 使用相应的列名进行查询
+    cursor.execute(f"SELECT * FROM {tablename} WHERE Course_Number = ?", (identifier,))
     row = cursor.fetchone()
 
     if row:
-        # 获取后两个字段的数据
         row_dict = dict(row)
-        last_two_columns = list(row_dict.values())[-2:]
         conn.close()
-        return jsonify(last_two_columns)
+        return jsonify(row_dict)  # 返回完整的行数据
     else:
         conn.close()
         return jsonify({"error": "Record not found"}), 404
+
+@app.route('/prof/', methods=['GET'])
+def get_all_from_faculty_table():
+    conn = connect_faculty_db()
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT * FROM CSEFaculty")
+    rows = cursor.fetchall()
+
+    faculty_data = [dict(row) for row in rows]
+    conn.close()
+
+    return jsonify(faculty_data)
+
+@app.route('/prof/<professor_name>', methods=['GET'])
+def get_faculty_by_name(professor_name):
+    conn = connect_faculty_db()
+    cursor = conn.cursor()
+
+    # 查询教授的所有信息
+    cursor.execute("SELECT * FROM CSEFaculty WHERE Name = ?", (professor_name,))
+    row = cursor.fetchone()
+
+    if row:
+        professor_data = dict(row)
+        ordered_keys = ["Name", "Appointment", "Category", "Address", "Email", "Phone"]
+        sorted_professor_data = {key: professor_data[key] for key in ordered_keys if key in professor_data}
+        conn.close()
+        return jsonify(sorted_professor_data)
+    else:
+        conn.close()
+        return jsonify({"error": "Professor not found"}), 404
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False)
