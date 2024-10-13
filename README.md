@@ -13,20 +13,26 @@ This project is based on Python Scrapy and SQLite3. Python Scrapy is for crawlin
 3. Open the service in local terminal, APIs such as Postman, or browser.
     1) Use it in local terminal
       
-      ```
-      $ curl <link>
-      $ curl "http://127.0.0.1:5000/cse"
-      $ curl "http://127.0.0.1:5000/prof/Bucci, Paolo"
-      ```
+       ```
+       $ curl <link>
+       $ curl "http://127.0.0.1:5000/cse"
+       $ curl "http://127.0.0.1:5000/prof/Bucci, Paolo"
+       ```
+       
     2) Use it in APIs
+       
        ```
        GET <link>
        ```
-    4) Use it in browsers
+       
+    3) Use it in browsers
+       
        ```
        <link>
        ```
+       
        It will return the .json data requested.
+       
 4. References
    Course Syllabi:
    
