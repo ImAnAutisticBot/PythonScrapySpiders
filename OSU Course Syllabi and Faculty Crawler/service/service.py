@@ -28,3 +28,31 @@ def get_all_from_table(tablename):
     conn.close()
 
     return jsonify(table_data)
+
+@app.route('/<tablename>/<identifier>', methods=['GET'])
+def get_by_id(tablename, identifier):
+    conn = connect_db()
+    cursor = conn.cursor()
+
+    # 验证表是否存在
+    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name=?", (tablename,))
+    if not cursor.fetchone():
+        conn.close()
+        return jsonify({"error": "Table not found"}), 404
+
+    # 根据 identifier 查询匹配的行
+    cursor.execute(f"SELECT * FROM {tablename} WHERE course_id = ?", (identifier,))
+    row = cursor.fetchone()
+
+    if row:
+        # 获取后两个字段的数据
+        row_dict = dict(row)
+        last_two_columns = list(row_dict.values())[-2:]
+        conn.close()
+        return jsonify(last_two_columns)
+    else:
+        conn.close()
+        return jsonify({"error": "Record not found"}), 404
+
+if __name__ == '__main__':
+    app.run(debug=True, use_reloader=False)
