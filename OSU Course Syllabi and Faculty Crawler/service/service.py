@@ -17,6 +17,7 @@ def connect_faculty_db():
 def get_all_from_table(tablename):
     conn = connect_syllabi_db('syllabi.db')
     cursor = conn.cursor()
+    tablename = tablename.lower()
 
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name=?", (tablename,))
     if not cursor.fetchone():
@@ -35,11 +36,14 @@ def get_all_from_table(tablename):
 def get_by_id(tablename, identifier):
     conn = connect_syllabi_db('syllabi.db')
     cursor = conn.cursor()
+    tablename = tablename.lower()
 
     cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name=?", (tablename,))
     if not cursor.fetchone():
         conn.close()
         return jsonify({"error": "Table not found"}), 404
+
+    identifier = identifier.upper()
 
     # 使用相应的列名进行查询
     cursor.execute(f"SELECT * FROM {tablename} WHERE Course_Number = ?", (identifier,))
